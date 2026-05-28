@@ -1,0 +1,23 @@
+// 从第 4 章提取
+// 代码清单: getStaticProps 配置
+// 文件名: chapter04_BlogPage.tsx
+// Pages Router 的数据获取方式
+// 数据获取函数在组件外部定义
+export async function getStaticProps() {
+  const posts = await fetchPosts();
+  return {
+    props: { posts },  // 通过 props 传递给组件
+    revalidate: 60,    // ISR 配置
+  };
+}
+
+// 组件接收数据作为 props
+export default function BlogPage({ posts }) {
+  return (
+    <ul>
+      {posts.map(post => (
+        <li key={post.id}>{post.title}</li>
+      ))}
+    </ul>
+  );
+}

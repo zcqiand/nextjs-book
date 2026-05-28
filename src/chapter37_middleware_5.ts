@@ -1,0 +1,21 @@
+// 从第 37 章提取
+// 代码清单: middleware 函数
+// 文件名: chapter37_middleware_5.ts
+export function middleware(request: NextRequest) {
+  const hostname = request.headers.get('host') || '';
+
+  // 根据 subdomain 重写到对应页面
+  if (hostname.startsWith('shop.')) {
+    return NextResponse.rewrite(
+      new URL(`/shop${request.nextUrl.pathname}`, request.url)
+    );
+  }
+
+  if (hostname.startsWith('blog.')) {
+    return NextResponse.rewrite(
+      new URL(`/blog${request.nextUrl.pathname}`, request.url)
+    );
+  }
+
+  return NextResponse.next();
+}

@@ -1,0 +1,17 @@
+// 从第 10 章提取
+// 代码清单: Client Component 标记
+// 文件名: chapter10_DashboardTemplate.tsx
+// app/dashboard/template.tsx
+'use client';
+
+import { useEffect } from 'react';
+import { initChatWidget } from 'third-party-chat';
+
+export default function DashboardTemplate({ children }: { children: React.ReactNode }) {
+  useEffect(() => {
+    // 每次进入仪表盘时重新初始化聊天组件
+    initChatWidget();
+  }, []);
+
+  return <div>{children}</div>;
+}

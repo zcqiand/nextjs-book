@@ -1,0 +1,6 @@
+// 从第 3 章提取
+// 代码清单: OldIndex 函数
+// 文件名: chapter03_OldIndex.tsx
+# 这不会影响 App Router 的功能，两者可以共存
+mkdir -p pages
+echo 'export default function OldIndex() { return <h1>这是 Pages Router 页面</h1> }' > pages/index.tsx
