@@ -1,0 +1,10 @@
+# 数据库连接
+DATABASE_URL="file:./dev.db"
+
+# NextAuth 配置
+AUTH_SECRET="your-secret-key-here"
+NEXTAUTH_URL="http://localhost:3000"
+
+# OAuth（如果使用第三方登录）
+AUTH_GOOGLE_ID="your-google-client-id"
+AUTH_GOOGLE_SECRET="your-google-client-secret"

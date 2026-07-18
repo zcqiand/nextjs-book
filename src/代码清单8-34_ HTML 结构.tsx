@@ -1,0 +1,1 @@
+<div className="card-center">内容</div>

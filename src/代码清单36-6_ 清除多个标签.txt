@@ -1,0 +1,2 @@
+// 清除多个标签
+revalidateTag('posts', 'homepage', 'sidebar');

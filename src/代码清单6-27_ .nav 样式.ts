@@ -1,0 +1,28 @@
+/ components/Navigation.module.css */
+.nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.link {
+  color: #666;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.link:hover {
+  background-color: #f5f5f5;
+  color: #0070f3;
+}
+
+.active {
+  background-color: #0070f3;
+  color: white;
+}
+
+.active:hover {
+  background-color: #0051a8;
+  color: white;
+}

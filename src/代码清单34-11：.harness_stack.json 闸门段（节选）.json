@@ -1,0 +1,10 @@
+  "gates": {
+    "L1": { "name": "格式",  "cmd": ["npx","--no","prettier","--check","src","tests"] },
+    "L2": { "name": "静态检查", "cmd": ["npx","--no","eslint","src","tests"] },
+    "L3": { "name": "类型",   "cmd": ["npx","--no","tsc","--noEmit"] },
+    "L4": { "name": "测试",   "cmd": ["npx","--no","vitest","run"] }
+  },
+  "trace_cmd": ["npx","--no","vitest","run"],
+  "trace_env": { "TRACE_MAP": "1" },
+  "source_dirs": ["src"],
+  "test_dirs":  ["tests"]

@@ -1,0 +1,31 @@
+src/app/
+├── layout.tsx                    # 根布局（全局导航 + 页脚）
+│
+├── (public)/                    # 路由组：公开内容，不影响 URL
+│   ├── layout.tsx               # 公开内容布局（简洁头部）
+│   ├── page.tsx                # 首页
+│   ├── courses/
+│   │   ├── page.tsx           # 课程列表
+│   │   └── [courseId]/
+│   │       ├── page.tsx       # 课程详情
+│   │       └── layout.tsx     # 课程内容布局（课程进度、笔记等）
+│   └── about/
+│       └── page.tsx           # 关于页面
+│
+├── (learning)/                  # 路由组：学习平台
+│   ├── layout.tsx              # 学习平台布局（用户信息、会员状态等）
+│   ├── dashboard/
+│   │   └── page.tsx          # 个人中心
+│   ├── my-courses/
+│   │   └── page.tsx         # 已购课程
+│   └── progress/
+│       └── page.tsx          # 学习进度
+│
+└── (admin)/                    # 路由组：管理后台
+    ├── layout.tsx             # 管理后台布局（管理员导航 + 侧边栏）
+    ├── users/
+    │   └── page.tsx        # 用户管理
+    ├── content/
+    │   └── page.tsx        # 内容管理
+    └── analytics/
+    └── page.tsx        # 数据分析

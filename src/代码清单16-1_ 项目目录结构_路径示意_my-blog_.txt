@@ -1,0 +1,41 @@
+my-blog/
+├── src/
+│   ├── app/                    # App Router 页面
+│   │   ├── (main)/             # 主应用路由组
+│   │   │   ├── page.tsx        # 首页
+│   │   │   ├── blog/
+│   │   │   │   ├── page.tsx    # 博客列表
+│   │   │   │   └── [slug]/
+│   │   │   │       └── page.tsx # 文章详情
+│   │   │   └── layout.tsx
+│   │   ├── (admin)/            # 管理后台路由组
+│   │   │   ├── login/
+│   │   │   │   └── page.tsx
+│   │   │   ├── dashboard/
+│   │   │   │   └── page.tsx
+│   │   │   └── layout.tsx
+│   │   ├── api/                # API 路由（如需要）
+│   │   ├── error.tsx
+│   │   ├── global-error.tsx
+│   │   ├── layout.tsx
+│   │   └── loading.tsx
+│   ├── components/            # 可复用组件
+│   │   ├── ui/                # 基础 UI 组件
+│   │   ├── blog/              # 博客相关组件
+│   │   └── layout/            # 布局相关组件
+│   ├── lib/                    # 工具函数和配置
+│   │   ├── db.ts              # 数据库客户端
+│   │   ├── auth.ts            # 认证配置
+│   │   └── utils.ts            # 通用工具
+│   ├── actions/                # Server Actions
+│   │   ├── comments.ts
+│   │   └── posts.ts
+│   └── types/                  # TypeScript 类型
+│       └── index.ts
+├── public/                     # 静态资源
+├── styles/                     # 全局样式
+├── prisma/                     # Prisma ORM
+│   └── schema.prisma
+├── .env                        # 环境变量
+├── next.config.ts
+└── package.json

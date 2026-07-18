@@ -1,0 +1,9 @@
+app/
+├── page.tsx                    # 首页 → /
+├── blog/
+│   └── page.tsx                # 博客列表 → /blog
+├── admin/                      # admin 出现在 URL 中
+│   ├── login/
+│   │   └── page.tsx            # → /admin/login
+│   └── dashboard/
+│       └── page.tsx            # → /admin/dashboard

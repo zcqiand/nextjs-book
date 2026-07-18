@@ -1,0 +1,14 @@
+app/
+├── (dashboard)/              # 路由组
+│   ├── @sidebar/
+│   │   └── page.tsx
+│   ├── @header/
+│   │   └── page.tsx
+│   ├── @content/
+│   │   └── page.tsx
+│   ├── analytics/
+│   │   └── page.tsx          # → /dashboard/analytics
+│   ├── reports/
+│   │   └── page.tsx          # → /dashboard/reports
+│   └── layout.tsx            # 并行路由布局
+└── layout.tsx                # 全局根布局

@@ -1,0 +1,15 @@
+app/
+├── (main)/
+│   ├── page.tsx              # 首页 → /
+│   ├── blog/
+│   │   ├── page.tsx          # 博客列表 → /blog
+│   │   └── [slug]/
+│   │       └── page.tsx      # 文章详情 → /blog/:slug
+│   └── layout.tsx            # 主布局
+├── (admin)/
+│   ├── login/
+│   │   └── page.tsx          # 登录页 → /login
+│   ├── dashboard/
+│   │   └── page.tsx          # 管理后台 → /dashboard
+│   └── layout.tsx           # 管理后台布局
+└── layout.tsx                # 全局根布局

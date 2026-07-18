@@ -1,0 +1,8 @@
+// 将耗时操作移到 Web Worker
+import Comlink from 'comlink';
+
+const worker = new Worker('/workers/heavy-computation.js');
+const heavyApi = Comlink.wrap(worker);
+
+// 在组件中使用
+await heavyApi.processLargeData();

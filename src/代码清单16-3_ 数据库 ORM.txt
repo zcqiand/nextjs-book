@@ -1,0 +1,14 @@
+# 数据库 ORM
+npm install prisma @prisma/client
+
+# 认证
+npm install next-auth@beta
+
+# 表单验证
+npm install zod
+
+# 日期处理
+npm install date-fns
+
+# 样式工具（如果需要）
+npm install clsx tailwind-merge

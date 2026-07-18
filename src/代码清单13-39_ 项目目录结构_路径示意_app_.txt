@@ -1,0 +1,10 @@
+app/
+├── (marketing)/
+│   ├── about/
+│   │   └── page.tsx
+│   └── not-found.tsx        # 营销页面专属的 404
+├── (shop)/
+│   ├── products/
+│   │   └── page.tsx
+│   └── not-found.tsx        # 商城页面专属的 404
+└── not-found.tsx            # 全局 404

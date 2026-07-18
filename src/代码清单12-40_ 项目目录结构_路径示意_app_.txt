@@ -1,0 +1,7 @@
+app/
+├── @feed/
+│   └── page.tsx           # 动态 feed 内容
+├── photo/
+│   └── [id]/
+│       └── page.tsx       # 直接访问时显示完整图片页面
+└── layout.tsx

@@ -1,0 +1,6 @@
+// 中间件运行在 Edge Runtime
+// 可用：Headers、URL、Cookies、部分 Web API
+// 不可用：Node.js 特定 API、文件系统、大部分 npm 包
+
+// 好的选择：原生 JS、lightweight libraries
+// 避免：bcrypt、prisma（需要 Node.js）

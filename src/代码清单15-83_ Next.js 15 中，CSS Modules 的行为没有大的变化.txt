@@ -1,0 +1,6 @@
+// Next.js 15 中，CSS Modules 的行为没有大的变化
+// 但建议使用更明确的导入方式
+import styles from './button.module.css';
+
+// 而不是使用 require
+const styles = require('./button.module.css');

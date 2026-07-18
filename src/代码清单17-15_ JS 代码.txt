@@ -1,0 +1,6 @@
+const PasswordSchema = z
+  .string()
+  .min(8, '密码至少需要8个字符')
+  .regex(/[A-Z]/, '密码需要包含大写字母')
+  .regex(/[a-z]/, '密码需要包含小写字母')
+  .regex(/[0-9]/, '密码需要包含数字');

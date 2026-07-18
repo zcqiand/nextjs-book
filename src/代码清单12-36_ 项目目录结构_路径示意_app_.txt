@@ -1,0 +1,7 @@
+app/
+└── (main)/
+    └── blog/
+        ├── page.tsx              # 博客列表 → /blog
+        ├── layout.tsx            # 博客区域的共享布局
+        └── [category]/
+└── page.tsx          # 分类页面 → /blog/:category

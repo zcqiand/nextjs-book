@@ -1,0 +1,9 @@
+// 串行获取 - 慢，因为每个请求要等待前一个完成
+const user = await getCurrentUser();
+const posts = await getUserPosts(user.id);
+
+// 并行获取 - 快，所有请求同时进行
+const [user, posts] = await Promise.all([
+  getCurrentUser(),
+  getUserPosts(),
+]);

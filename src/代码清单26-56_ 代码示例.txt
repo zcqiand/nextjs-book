@@ -1,0 +1,13 @@
+# .env.example（可提交到代码仓库）
+NEXT_PUBLIC_APP_URL="https://example.com"
+
+# .env.local（不提交）
+# 数据库
+DATABASE_URL="postgresql://..."
+
+# 密钥
+AUTH_SECRET="..."
+STRIPE_SECRET_KEY="sk_..."
+
+# API 密钥
+SENDGRID_API_KEY="SG...."

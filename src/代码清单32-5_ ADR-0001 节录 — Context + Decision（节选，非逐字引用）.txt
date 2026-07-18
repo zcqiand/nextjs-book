@@ -1,0 +1,15 @@
+- 状态: Accepted
+- 日期: 2026-07-15
+- 决策者: 用户
+
+## Context
+
+nextjs 项目的栈约束规定：
+- 禁止 client 组件内联 fetch / 直连数据库
+- 禁止 `localStorage` 直接散落在组件中；统一走 `src/store/`。
+
+`localStorage` 中明文 JWT 可被任意页面脚本（含 XSS 注入）读取。Next.js 的会话惯例是在服务端 `Set-Cookie`（httpOnly + SameSite），client 永远读不到 token 明文。
+
+## Decision
+
+我们决定会话凭据用 **httpOnly cookie** 承载：登录成功后服务端 `Set-Cookie`（`httpOnly`、`SameSite=Lax`、`Secure`=生产环境），凭据校验在 middleware（边缘验签/过期）与 server component / server action（查库取用户/权限）内完成。client 不接触 token 明文。

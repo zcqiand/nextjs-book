@@ -1,0 +1,9 @@
+src/app/
+├── layout.tsx              # 根布局
+├── page.tsx               # 首页
+├── blog/
+│   ├── layout.tsx        # 博客布局
+│   ├── page.tsx          # 博客列表
+│   └── [slug]/
+│       ├── layout.tsx    # 文章布局
+│       └── page.tsx      # 文章详情

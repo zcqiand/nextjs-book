@@ -1,0 +1,4 @@
+# .env.local
+DATABASE_URL="postgres://user:password@localhost:5432/mydb"
+JWT_SECRET="super-secret-key-12345"
+API_KEY="sk_live_1234567890"

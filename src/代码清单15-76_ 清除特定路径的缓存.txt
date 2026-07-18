@@ -1,0 +1,8 @@
+// 清除特定路径的缓存
+// 这会让 /blog 页面及其子页面重新验证
+revalidatePath('/blog');
+revalidatePath('/blog/post-1');
+
+// 清除特定标签的缓存（更精细的控制）
+// 这会清除所有带有 'blog-posts' 标签的缓存
+revalidateTag('blog-posts');

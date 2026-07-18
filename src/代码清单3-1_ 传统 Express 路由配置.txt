@@ -1,0 +1,14 @@
+// 传统 Express 路由配置
+const express = require('express');
+const router = express.Router();
+const blogController = require('./controllers/blog');
+
+// 维护一份路由表
+router.get('/blog', blogController.index);      // 博客列表
+router.get('/blog/:slug', blogController.show); // 博客详情
+router.post('/blog', blogController.create);   // 创建博客
+router.get('/about', aboutController.index);   // 关于页面
+
+// 应用中间件
+app.use('/', router);
+app.listen(3000);

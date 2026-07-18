@@ -1,0 +1,5058 @@
+[
+  {
+    "title": "代码清单1-1: Server Component 示例",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 150,
+    "extracted_file": "src\\代码清单1-1_ Server Component 示例.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-2: Server Component 和 Client Component",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 218,
+    "extracted_file": "src\\代码清单1-2_ Server Component 和 Client Component.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-3: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 250,
+    "extracted_file": "src\\代码清单1-3_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-4: ISR revalidate 配置",
+    "lang": "text",
+    "chapter_file": "chapter-001.md",
+    "line": 261,
+    "extracted_file": "src\\代码清单1-4_ ISR revalidate 配置.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单1-5: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 273,
+    "extracted_file": "src\\代码清单1-5_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-6: 图片优化组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 292,
+    "extracted_file": "src\\代码清单1-6_ 图片优化组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-7: 字体优化配置",
+    "lang": "tsx",
+    "chapter_file": "chapter-001.md",
+    "line": 319,
+    "extracted_file": "src\\代码清单1-7_ 字体优化配置.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单1-8: 检查 Node.js 版本",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 377,
+    "extracted_file": "src\\代码清单1-8_ 检查 Node.js 版本.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-9: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 407,
+    "extracted_file": "src\\代码清单1-9_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-1: JSON 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-002.md",
+    "line": 82,
+    "extracted_file": "src\\代码清单2-1_ JSON 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单2-7: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 210,
+    "extracted_file": "src\\代码清单2-7_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-8: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 230,
+    "extracted_file": "src\\代码清单2-8_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-9: 使用相对路径（当文件位置改变时需要修改很多 import）",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 326,
+    "extracted_file": "src\\代码清单2-9_ 使用相对路径（当文件位置改变时需要修改很多 import）.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-10: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 381,
+    "extracted_file": "src\\代码清单2-10_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-11: 图片优化组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-002.md",
+    "line": 428,
+    "extracted_file": "src\\代码清单2-11_ 图片优化组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单2-12: AboutPage 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-002.md",
+    "line": 460,
+    "extracted_file": "src\\代码清单2-12_ AboutPage 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-1: 传统 Express 路由配置",
+    "lang": "text",
+    "chapter_file": "chapter-003.md",
+    "line": 17,
+    "extracted_file": "src\\代码清单3-1_ 传统 Express 路由配置.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单3-2: pages/_app.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 243,
+    "extracted_file": "src\\代码清单3-2_ pages__app.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-3: headers 操作",
+    "lang": "typescript",
+    "chapter_file": "chapter-003.md",
+    "line": 325,
+    "extracted_file": "src\\代码清单3-3_ headers 操作.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单3-4: JSON 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-003.md",
+    "line": 377,
+    "extracted_file": "src\\代码清单3-4_ JSON 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单3-5: SQL 查询",
+    "lang": "typescript",
+    "chapter_file": "chapter-003.md",
+    "line": 412,
+    "extracted_file": "src\\代码清单3-5_ SQL 查询.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单3-6: @type {import(postcss-load-config)",
+    "lang": "typescript",
+    "chapter_file": "chapter-003.md",
+    "line": 454,
+    "extracted_file": "src\\代码清单3-6_ @type {import(postcss-load-config).ts",
+    "source": null
+  },
+  {
+    "title": "代码清单3-7: 使用绝对路径（推荐）",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 520,
+    "extracted_file": "src\\代码清单3-7_ 使用绝对路径（推荐）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-8: 查看所有文件和目录",
+    "lang": "text",
+    "chapter_file": "chapter-003.md",
+    "line": 539,
+    "extracted_file": "src\\代码清单3-8_ 查看所有文件和目录.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单3-9: src/app/about/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 616,
+    "extracted_file": "src\\代码清单3-9_ src_app_about_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-10: src/app/about/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 640,
+    "extracted_file": "src\\代码清单3-10_ src_app_about_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-11: src/app/blog/[slug]/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 671,
+    "extracted_file": "src\\代码清单3-11_ src_app_blog_[slug]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-12: OldIndex 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-003.md",
+    "line": 691,
+    "extracted_file": "src\\代码清单3-12_ OldIndex 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-1: pages/_app.tsx - Pages Router 的布局方式",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 43,
+    "extracted_file": "src\\代码清单4-1_ pages__app.tsx - Pages Router 的布局方式.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-2: getStaticProps 配置",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 125,
+    "extracted_file": "src\\代码清单4-2_ getStaticProps 配置.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-3: App Router 的数据获取方式",
+    "lang": "typescript",
+    "chapter_file": "chapter-004.md",
+    "line": 151,
+    "extracted_file": "src\\代码清单4-3_ App Router 的数据获取方式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单4-4: pages/_app.tsx - Pages Router 的条件布局",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 177,
+    "extracted_file": "src\\代码清单4-4_ pages__app.tsx - Pages Router 的条件布局.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-5: getStaticProps 配置",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 250,
+    "extracted_file": "src\\代码清单4-5_ getStaticProps 配置.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-6: App Router - 直接在组件内获取数据",
+    "lang": "typescript",
+    "chapter_file": "chapter-004.md",
+    "line": 277,
+    "extracted_file": "src\\代码清单4-6_ App Router - 直接在组件内获取数据.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单4-7: ISR revalidate 配置",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 289,
+    "extracted_file": "src\\代码清单4-7_ ISR revalidate 配置.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-8: app/blog/[slug]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-004.md",
+    "line": 302,
+    "extracted_file": "src\\代码清单4-8_ app_blog_[slug]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单4-9: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 332,
+    "extracted_file": "src\\代码清单4-9_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-10: pages/api/posts.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 407,
+    "extracted_file": "src\\代码清单4-10_ pages_api_posts.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单4-11: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-004.md",
+    "line": 426,
+    "extracted_file": "src\\代码清单4-11_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-1: app/about/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 48,
+    "extracted_file": "src\\代码清单5-1_ app_about_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-2: app/about/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-005.md",
+    "line": 72,
+    "extracted_file": "src\\代码清单5-2_ app_about_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单5-3: app/blog/[slug]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-005.md",
+    "line": 96,
+    "extracted_file": "src\\代码清单5-3_ app_blog_[slug]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单5-4: src/app/about/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 155,
+    "extracted_file": "src\\代码清单5-4_ src_app_about_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-5: app/layout.tsx（根布局）",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 256,
+    "extracted_file": "src\\代码清单5-5_ app_layout.tsx（根布局）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-6: src/app/about/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 324,
+    "extracted_file": "src\\代码清单5-6_ src_app_about_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-7: app/template.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 378,
+    "extracted_file": "src\\代码清单5-7_ app_template.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-8: app/blog/layout.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-005.md",
+    "line": 443,
+    "extracted_file": "src\\代码清单5-8_ app_blog_layout.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单5-9: src/app/contact/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 502,
+    "extracted_file": "src\\代码清单5-9_ src_app_contact_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-10: src/app/contact/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 589,
+    "extracted_file": "src\\代码清单5-10_ src_app_contact_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-11: src/app/contact/team/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 640,
+    "extracted_file": "src\\代码清单5-11_ src_app_contact_team_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-12: not-found.js 未找到页面",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 681,
+    "extracted_file": "src\\代码清单5-12_ not-found.js 未找到页面.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-13: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 716,
+    "extracted_file": "src\\代码清单5-13_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-14: loading.js 加载状态",
+    "lang": "tsx",
+    "chapter_file": "chapter-005.md",
+    "line": 760,
+    "extracted_file": "src\\代码清单5-14_ loading.js 加载状态.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-1: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单6-1_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-2: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 20,
+    "extracted_file": "src\\代码清单6-2_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-3: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 58,
+    "extracted_file": "src\\代码清单6-3_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-4: 字符串形式",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 78,
+    "extracted_file": "src\\代码清单6-4_ 字符串形式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-5: 字符串形式需要手动拼接",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 93,
+    "extracted_file": "src\\代码清单6-5_ 字符串形式需要手动拼接.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-6: 对象形式更容易维护",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 102,
+    "extracted_file": "src\\代码清单6-6_ 对象形式更容易维护.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-7: 点击后不会留下浏览器历史记录",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 116,
+    "extracted_file": "src\\代码清单6-7_ 点击后不会留下浏览器历史记录.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-8: 默认预取（推荐）",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 130,
+    "extracted_file": "src\\代码清单6-8_ 默认预取（推荐）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-9: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 148,
+    "extracted_file": "src\\代码清单6-9_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-10: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 171,
+    "extracted_file": "src\\代码清单6-10_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-11: .nav 样式",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 187,
+    "extracted_file": "src\\代码清单6-11_ .nav 样式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-12: HTML 结构",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 210,
+    "extracted_file": "src\\代码清单6-12_ HTML 结构.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-13: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 221,
+    "extracted_file": "src\\代码清单6-13_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-14: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 303,
+    "extracted_file": "src\\代码清单6-14_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-15: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 351,
+    "extracted_file": "src\\代码清单6-15_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-16: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 375,
+    "extracted_file": "src\\代码清单6-16_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-17: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 404,
+    "extracted_file": "src\\代码清单6-17_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-18: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 432,
+    "extracted_file": "src\\代码清单6-18_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-19: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 587,
+    "extracted_file": "src\\代码清单6-19_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-20: 导航时不保持滚动位置，滚动到顶部",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 695,
+    "extracted_file": "src\\代码清单6-20_ 导航时不保持滚动位置，滚动到顶部.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-21: 导航时不保持滚动位置",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 705,
+    "extracted_file": "src\\代码清单6-21_ 导航时不保持滚动位置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-22: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 717,
+    "extracted_file": "src\\代码清单6-22_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-23: redirect 重定向",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 743,
+    "extracted_file": "src\\代码清单6-23_ redirect 重定向.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-24: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 791,
+    "extracted_file": "src\\代码清单6-24_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-25: .header 样式",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 832,
+    "extracted_file": "src\\代码清单6-25_ .header 样式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-26: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 907,
+    "extracted_file": "src\\代码清单6-26_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-27: .nav 样式",
+    "lang": "typescript",
+    "chapter_file": "chapter-006.md",
+    "line": 942,
+    "extracted_file": "src\\代码清单6-27_ .nav 样式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单6-28: 在 header 中替换原来的 nav",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 976,
+    "extracted_file": "src\\代码清单6-28_ 在 header 中替换原来的 nav.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-29: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 988,
+    "extracted_file": "src\\代码清单6-29_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-30: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 1057,
+    "extracted_file": "src\\代码清单6-30_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-31: TypeScript 代码",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 1108,
+    "extracted_file": "src\\代码清单6-31_ TypeScript 代码.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-32: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 1131,
+    "extracted_file": "src\\代码清单6-32_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单6-33: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-006.md",
+    "line": 1185,
+    "extracted_file": "src\\代码清单6-33_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-1: JS 代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单7-1_ JS 代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-2: app/blog/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 37,
+    "extracted_file": "src\\代码清单7-2_ app_blog_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-3: BlogPage 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 65,
+    "extracted_file": "src\\代码清单7-3_ BlogPage 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-4: app/users/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 97,
+    "extracted_file": "src\\代码清单7-4_ app_users_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-5: lib/prisma.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 127,
+    "extracted_file": "src\\代码清单7-5_ lib_prisma.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-6: SQL 查询",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 145,
+    "extracted_file": "src\\代码清单7-6_ SQL 查询.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-7: 请求去重示意",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 199,
+    "extracted_file": "src\\代码清单7-7_ 请求去重示意.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-8: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 229,
+    "extracted_file": "src\\代码清单7-8_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-9: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 273,
+    "extracted_file": "src\\代码清单7-9_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-10: app/user/[id]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 294,
+    "extracted_file": "src\\代码清单7-10_ app_user_[id]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-11: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 314,
+    "extracted_file": "src\\代码清单7-11_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-12: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 359,
+    "extracted_file": "src\\代码清单7-12_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-13: UsersPage 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 379,
+    "extracted_file": "src\\代码清单7-13_ UsersPage 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-14: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 398,
+    "extracted_file": "src\\代码清单7-14_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-15: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 430,
+    "extracted_file": "src\\代码清单7-15_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-16: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 461,
+    "extracted_file": "src\\代码清单7-16_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-17: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 477,
+    "extracted_file": "src\\代码清单7-17_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-18: JS 代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 497,
+    "extracted_file": "src\\代码清单7-18_ JS 代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-19: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 509,
+    "extracted_file": "src\\代码清单7-19_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-20: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 532,
+    "extracted_file": "src\\代码清单7-20_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-21: middleware.ts",
+    "lang": "javascript",
+    "chapter_file": "chapter-007.md",
+    "line": 592,
+    "extracted_file": "src\\代码清单7-21_ middleware.ts.js",
+    "source": null
+  },
+  {
+    "title": "代码清单7-22: BlogPage 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 667,
+    "extracted_file": "src\\代码清单7-22_ BlogPage 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-23: ProductPage 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 695,
+    "extracted_file": "src\\代码清单7-23_ ProductPage 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-24: ProductPage 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 742,
+    "extracted_file": "src\\代码清单7-24_ ProductPage 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-25: src/lib/posts.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 765,
+    "extracted_file": "src\\代码清单7-25_ src_lib_posts.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-26: Link 导航组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-007.md",
+    "line": 824,
+    "extracted_file": "src\\代码清单7-26_ Link 导航组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单7-27: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 879,
+    "extracted_file": "src\\代码清单7-27_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-28: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 945,
+    "extracted_file": "src\\代码清单7-28_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-29: src/app/blog/[slug]/CommentsSkeleton.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 1007,
+    "extracted_file": "src\\代码清单7-29_ src_app_blog_[slug]_CommentsSkeleton.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-30: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-007.md",
+    "line": 1027,
+    "extracted_file": "src\\代码清单7-30_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-1: styles",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单8-1_ styles.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-2: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 34,
+    "extracted_file": "src\\代码清单8-2_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-3: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 41,
+    "extracted_file": "src\\代码清单8-3_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-4: 水平居中",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 110,
+    "extracted_file": "src\\代码清单8-4_ 水平居中.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-5: 默认是单列，移动端双列，桌面端三列",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 141,
+    "extracted_file": "src\\代码清单8-5_ 默认是单列，移动端双列，桌面端三列.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-7: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 166,
+    "extracted_file": "src\\代码清单8-7_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-8: 代码示例",
+    "lang": "bash",
+    "chapter_file": "chapter-008.md",
+    "line": 177,
+    "extracted_file": "src\\代码清单8-8_ 代码示例.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单8-9: tailwind.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 185,
+    "extracted_file": "src\\代码清单8-9_ tailwind.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-10: postcss.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 200,
+    "extracted_file": "src\\代码清单8-10_ postcss.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-11: src/app/globals",
+    "lang": "text",
+    "chapter_file": "chapter-008.md",
+    "line": 213,
+    "extracted_file": "src\\代码清单8-11_ src_app_globals.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单8-12: tailwind.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 225,
+    "extracted_file": "src\\代码清单8-12_ tailwind.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-13: 切换暗黑模式的组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 236,
+    "extracted_file": "src\\代码清单8-13_ 切换暗黑模式的组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-14: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 246,
+    "extracted_file": "src\\代码清单8-14_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-15: tailwind.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 259,
+    "extracted_file": "src\\代码清单8-15_ tailwind.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-16: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 282,
+    "extracted_file": "src\\代码清单8-16_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-17: Button",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 297,
+    "extracted_file": "src\\代码清单8-17_ Button.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-18: Button.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 313,
+    "extracted_file": "src\\代码清单8-18_ Button.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-19: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 329,
+    "extracted_file": "src\\代码清单8-19_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-20: Button",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 371,
+    "extracted_file": "src\\代码清单8-20_ Button.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-21: Button 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 397,
+    "extracted_file": "src\\代码清单8-21_ Button 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-22: 样式化第三方库组件 /",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 414,
+    "extracted_file": "src\\代码清单8-22_ 样式化第三方库组件 _.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-23: Responsive",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 427,
+    "extracted_file": "src\\代码清单8-23_ Responsive.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-24: src/app/globals",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 456,
+    "extracted_file": "src\\代码清单8-24_ src_app_globals.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-25: src/app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 477,
+    "extracted_file": "src\\代码清单8-25_ src_app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-26: globals",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 497,
+    "extracted_file": "src\\代码清单8-26_ globals.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-27: 任何组件中",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 522,
+    "extracted_file": "src\\代码清单8-27_ 任何组件中.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-28: @tailwind base;",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 539,
+    "extracted_file": "src\\代码清单8-28_ @tailwind base;.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-29: tailwind.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 554,
+    "extracted_file": "src\\代码清单8-29_ tailwind.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-30: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 570,
+    "extracted_file": "src\\代码清单8-30_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-31: .btn 样式",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 588,
+    "extracted_file": "src\\代码清单8-31_ .btn 样式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-32: 使用 Tailwind 布局和间距，CSS Modules 处理复杂细节",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 647,
+    "extracted_file": "src\\代码清单8-32_ 使用 Tailwind 布局和间距，CSS Modules 处理复杂细节.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-33: globals",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 714,
+    "extracted_file": "src\\代码清单8-33_ globals.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-34: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 726,
+    "extracted_file": "src\\代码清单8-34_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-35: 安装 -D 包",
+    "lang": "bash",
+    "chapter_file": "chapter-008.md",
+    "line": 772,
+    "extracted_file": "src\\代码清单8-35_ 安装 -D 包.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单8-36: @type {import(tailwindcss)",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 781,
+    "extracted_file": "src\\代码清单8-36_ @type {import(tailwindcss).ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-37: @tailwind base;",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 805,
+    "extracted_file": "src\\代码清单8-37_ @tailwind base;.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-38: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 826,
+    "extracted_file": "src\\代码清单8-38_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-39: TypeScript 代码",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 876,
+    "extracted_file": "src\\代码清单8-39_ TypeScript 代码.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-40: components/BlogCard",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 916,
+    "extracted_file": "src\\代码清单8-40_ components_BlogCard.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-41: .dark 样式",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 986,
+    "extracted_file": "src\\代码清单8-41_ .dark 样式.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-42: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 1019,
+    "extracted_file": "src\\代码清单8-42_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-43: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 1055,
+    "extracted_file": "src\\代码清单8-43_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-44: src/app/blog/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 1131,
+    "extracted_file": "src\\代码清单8-44_ src_app_blog_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-45: components/Modal",
+    "lang": "typescript",
+    "chapter_file": "chapter-008.md",
+    "line": 1167,
+    "extracted_file": "src\\代码清单8-45_ components_Modal.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单8-46: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-008.md",
+    "line": 1190,
+    "extracted_file": "src\\代码清单8-46_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单8-47: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-008.md",
+    "line": 1240,
+    "extracted_file": "src\\代码清单8-47_ 构建项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单8-48: 文件路径示意:Route (app)",
+    "lang": "text",
+    "chapter_file": "chapter-008.md",
+    "line": 1247,
+    "extracted_file": "src\\代码清单8-48_ 文件路径示意_Route (app).txt",
+    "source": null
+  },
+  {
+    "title": "代码清单9-1: middleware.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 17,
+    "extracted_file": "src\\代码清单9-1_ middleware.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-2: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 71,
+    "extracted_file": "src\\代码清单9-2_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-3: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 92,
+    "extracted_file": "src\\代码清单9-3_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-4: redirect 重定向",
+    "lang": "javascript",
+    "chapter_file": "chapter-009.md",
+    "line": 108,
+    "extracted_file": "src\\代码清单9-4_ redirect 重定向.js",
+    "source": null
+  },
+  {
+    "title": "代码清单9-5: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 134,
+    "extracted_file": "src\\代码清单9-5_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-6: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 171,
+    "extracted_file": "src\\代码清单9-6_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-7: 安全的 Cookie 设置",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 230,
+    "extracted_file": "src\\代码清单9-7_ 安全的 Cookie 设置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-8: middleware.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 246,
+    "extracted_file": "src\\代码清单9-8_ middleware.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-9: lib/auth.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 290,
+    "extracted_file": "src\\代码清单9-9_ lib_auth.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-10: redirect 重定向",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 323,
+    "extracted_file": "src\\代码清单9-10_ redirect 重定向.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-11: middleware.ts（之前已展示）",
+    "lang": "text",
+    "chapter_file": "chapter-009.md",
+    "line": 380,
+    "extracted_file": "src\\代码清单9-11_ middleware.ts（之前已展示）.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单9-12: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 386,
+    "extracted_file": "src\\代码清单9-12_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-13: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 433,
+    "extracted_file": "src\\代码清单9-13_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-14: middleware.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 458,
+    "extracted_file": "src\\代码清单9-14_ middleware.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-15: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 482,
+    "extracted_file": "src\\代码清单9-15_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-16: headers 操作",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 516,
+    "extracted_file": "src\\代码清单9-16_ headers 操作.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-17: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 533,
+    "extracted_file": "src\\代码清单9-17_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-18: middleware 函数",
+    "lang": "javascript",
+    "chapter_file": "chapter-009.md",
+    "line": 575,
+    "extracted_file": "src\\代码清单9-18_ middleware 函数.js",
+    "source": null
+  },
+  {
+    "title": "代码清单9-19: middleware 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 617,
+    "extracted_file": "src\\代码清单9-19_ middleware 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-20: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-009.md",
+    "line": 699,
+    "extracted_file": "src\\代码清单9-20_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单9-21: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 709,
+    "extracted_file": "src\\代码清单9-21_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-22: middleware.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 721,
+    "extracted_file": "src\\代码清单9-22_ middleware.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-23: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 748,
+    "extracted_file": "src\\代码清单9-23_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-24: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 765,
+    "extracted_file": "src\\代码清单9-24_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-25: headers 操作",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 785,
+    "extracted_file": "src\\代码清单9-25_ headers 操作.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-26: lib/jwt.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 825,
+    "extracted_file": "src\\代码清单9-26_ lib_jwt.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-27: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 860,
+    "extracted_file": "src\\代码清单9-27_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-28: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 910,
+    "extracted_file": "src\\代码清单9-28_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-29: 图片优化组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-009.md",
+    "line": 927,
+    "extracted_file": "src\\代码清单9-29_ 图片优化组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单9-30: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 1010,
+    "extracted_file": "src\\代码清单9-30_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单9-31: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-009.md",
+    "line": 1054,
+    "extracted_file": "src\\代码清单9-31_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单10-1: ❌ 不推荐：每个页面都写导航和页脚",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 21,
+    "extracted_file": "src\\代码清单10-1_ ❌ 不推荐：每个页面都写导航和页脚.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-2: 根布局（HTML + 全局导航 + 页脚）",
+    "lang": "text",
+    "chapter_file": "chapter-010.md",
+    "line": 57,
+    "extracted_file": "src\\代码清单10-2_ 根布局（HTML + 全局导航 + 页脚）.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单10-3: app/blog/layout.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-010.md",
+    "line": 153,
+    "extracted_file": "src\\代码清单10-3_ app_blog_layout.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单10-4: layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 203,
+    "extracted_file": "src\\代码清单10-4_ layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-5: app/blog/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 244,
+    "extracted_file": "src\\代码清单10-5_ app_blog_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-6: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 273,
+    "extracted_file": "src\\代码清单10-6_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-7: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 301,
+    "extracted_file": "src\\代码清单10-7_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-8: app/contact/template.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 323,
+    "extracted_file": "src\\代码清单10-8_ app_contact_template.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-9: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-010.md",
+    "line": 364,
+    "extracted_file": "src\\代码清单10-9_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单10-10: 项目目录结构/路径示意:src/app/",
+    "lang": "text",
+    "chapter_file": "chapter-010.md",
+    "line": 372,
+    "extracted_file": "src\\代码清单10-10_ 项目目录结构_路径示意_src_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单10-11: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 390,
+    "extracted_file": "src\\代码清单10-11_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-12: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 448,
+    "extracted_file": "src\\代码清单10-12_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-13: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 524,
+    "extracted_file": "src\\代码清单10-13_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-14: src/app/blog/[slug]/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 623,
+    "extracted_file": "src\\代码清单10-14_ src_app_blog_[slug]_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-15: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 664,
+    "extracted_file": "src\\代码清单10-15_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-16: HTML 结构",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 762,
+    "extracted_file": "src\\代码清单10-16_ HTML 结构.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-17: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-010.md",
+    "line": 788,
+    "extracted_file": "src\\代码清单10-17_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单10-18: 项目目录结构/路径示意:src/app/",
+    "lang": "text",
+    "chapter_file": "chapter-010.md",
+    "line": 860,
+    "extracted_file": "src\\代码清单10-18_ 项目目录结构_路径示意_src_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单11-57: app/blog/[slug]/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单11-57_ app_blog_[slug]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-58: Next.js 15 中的写法（使用 await）",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 102,
+    "extracted_file": "src\\代码清单11-58_ Next.js 15 中的写法（使用 await）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-59: Next.js 15 中的写法（使用 use 钩子）",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 116,
+    "extracted_file": "src\\代码清单11-59_ Next.js 15 中的写法（使用 use 钩子）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-60: Next.js 14 及之前的写法",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 134,
+    "extracted_file": "src\\代码清单11-60_ Next.js 14 及之前的写法.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-61: UserPostPage 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 157,
+    "extracted_file": "src\\代码清单11-61_ UserPostPage 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-62: Link 导航组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 198,
+    "extracted_file": "src\\代码清单11-62_ Link 导航组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-63: not-found.js 未找到页面",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 300,
+    "extracted_file": "src\\代码清单11-63_ not-found.js 未找到页面.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-64: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 339,
+    "extracted_file": "src\\代码清单11-64_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-65: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 364,
+    "extracted_file": "src\\代码清单11-65_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-66: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-011.md",
+    "line": 401,
+    "extracted_file": "src\\代码清单11-66_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单11-67: 静态生成 generateStaticParams",
+    "lang": "typescript",
+    "chapter_file": "chapter-011.md",
+    "line": 426,
+    "extracted_file": "src\\代码清单11-67_ 静态生成 generateStaticParams.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单11-68: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 452,
+    "extracted_file": "src\\代码清单11-68_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-69: app/[[...slug]]/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 597,
+    "extracted_file": "src\\代码清单11-69_ app_[[...slug]]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-70: app/docs/[...path]/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 631,
+    "extracted_file": "src\\代码清单11-70_ app_docs_[...path]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-71: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 698,
+    "extracted_file": "src\\代码清单11-71_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-72: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 758,
+    "extracted_file": "src\\代码清单11-72_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-73: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 826,
+    "extracted_file": "src\\代码清单11-73_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-74: 文件路径示意:Route (app)                             ",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 898,
+    "extracted_file": "src\\代码清单11-74_ 文件路径示意_Route (app)                             .txt",
+    "source": null
+  },
+  {
+    "title": "代码清单11-75: 对于 /users/1/posts/2",
+    "lang": "tsx",
+    "chapter_file": "chapter-011.md",
+    "line": 960,
+    "extracted_file": "src\\代码清单11-75_ 对于 _users_1_posts_2.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-31: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 54,
+    "extracted_file": "src\\代码清单12-31_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-32: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单12-32_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-33: app/(main)/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 113,
+    "extracted_file": "src\\代码清单12-33_ app_(main)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-34: app/(admin)/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 146,
+    "extracted_file": "src\\代码清单12-34_ app_(admin)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-35: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 190,
+    "extracted_file": "src\\代码清单12-35_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-36: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 239,
+    "extracted_file": "src\\代码清单12-36_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-37: app/(main)/blog/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 249,
+    "extracted_file": "src\\代码清单12-37_ app_(main)_blog_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-38: notFound 处理",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 276,
+    "extracted_file": "src\\代码清单12-38_ notFound 处理.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-39: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 346,
+    "extracted_file": "src\\代码清单12-39_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-40: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 405,
+    "extracted_file": "src\\代码清单12-40_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-41: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 437,
+    "extracted_file": "src\\代码清单12-41_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-42: app/@sidebar/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 449,
+    "extracted_file": "src\\代码清单12-42_ app_@sidebar_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-43: app/@header/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 481,
+    "extracted_file": "src\\代码清单12-43_ app_@header_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-44: app/@content/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 505,
+    "extracted_file": "src\\代码清单12-44_ app_@content_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-45: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 561,
+    "extracted_file": "src\\代码清单12-45_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-46: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 607,
+    "extracted_file": "src\\代码清单12-46_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单12-47: app/(dashboard)/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-012.md",
+    "line": 624,
+    "extracted_file": "src\\代码清单12-47_ app_(dashboard)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-37: not-found.js 未找到页面",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 64,
+    "extracted_file": "src\\代码清单13-37_ not-found.js 未找到页面.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-38: notFound 处理",
+    "lang": "typescript",
+    "chapter_file": "chapter-013.md",
+    "line": 110,
+    "extracted_file": "src\\代码清单13-38_ notFound 处理.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单13-39: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-013.md",
+    "line": 143,
+    "extracted_file": "src\\代码清单13-39_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单13-40: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 164,
+    "extracted_file": "src\\代码清单13-40_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-41: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-013.md",
+    "line": 223,
+    "extracted_file": "src\\代码清单13-41_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单13-42: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-013.md",
+    "line": 244,
+    "extracted_file": "src\\代码清单13-42_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单13-43: Error 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 262,
+    "extracted_file": "src\\代码清单13-43_ Error 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-44: loading.js 加载状态",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 290,
+    "extracted_file": "src\\代码清单13-44_ loading.js 加载状态.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-45: loading.js 加载状态",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 366,
+    "extracted_file": "src\\代码清单13-45_ loading.js 加载状态.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-46: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 415,
+    "extracted_file": "src\\代码清单13-46_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-47: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-013.md",
+    "line": 482,
+    "extracted_file": "src\\代码清单13-47_ 项目目录结构_路径示意_app_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单13-48: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 508,
+    "extracted_file": "src\\代码清单13-48_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-49: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 565,
+    "extracted_file": "src\\代码清单13-49_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-50: not-found.js 未找到页面",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 611,
+    "extracted_file": "src\\代码清单13-50_ not-found.js 未找到页面.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-51: loading.js 加载状态",
+    "lang": "tsx",
+    "chapter_file": "chapter-013.md",
+    "line": 667,
+    "extracted_file": "src\\代码清单13-51_ loading.js 加载状态.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-1: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 24,
+    "extracted_file": "src\\代码清单14-1_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-2: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 85,
+    "extracted_file": "src\\代码清单14-2_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-3: app/contact/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 117,
+    "extracted_file": "src\\代码清单14-3_ app_contact_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-4: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 178,
+    "extracted_file": "src\\代码清单14-4_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-6: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 278,
+    "extracted_file": "src\\代码清单14-6_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-7: app/contact/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 305,
+    "extracted_file": "src\\代码清单14-7_ app_contact_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-8: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 336,
+    "extracted_file": "src\\代码清单14-8_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-9: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 380,
+    "extracted_file": "src\\代码清单14-9_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-10: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 509,
+    "extracted_file": "src\\代码清单14-10_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-11: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 576,
+    "extracted_file": "src\\代码清单14-11_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-12: app/blog/[slug]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-014.md",
+    "line": 693,
+    "extracted_file": "src\\代码清单14-12_ app_blog_[slug]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单14-13: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 767,
+    "extracted_file": "src\\代码清单14-13_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-14: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 791,
+    "extracted_file": "src\\代码清单14-14_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-15: getUserData 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-014.md",
+    "line": 822,
+    "extracted_file": "src\\代码清单14-15_ getUserData 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-68: app/blog/[slug]/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 74,
+    "extracted_file": "src\\代码清单15-68_ app_blog_[slug]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-69: app/blog/[slug]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 91,
+    "extracted_file": "src\\代码清单15-69_ app_blog_[slug]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-70: generateMetadata 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 126,
+    "extracted_file": "src\\代码清单15-70_ generateMetadata 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-71: app/users/[userId]/posts/[postId]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 177,
+    "extracted_file": "src\\代码清单15-71_ app_users_[userId]_posts_[postId]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-72: generateMetadata 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 208,
+    "extracted_file": "src\\代码清单15-72_ generateMetadata 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-73: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 230,
+    "extracted_file": "src\\代码清单15-73_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-74: Next.js 14",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 262,
+    "extracted_file": "src\\代码清单15-74_ Next.js 14.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-75: 静态生成 generateStaticParams",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 282,
+    "extracted_file": "src\\代码清单15-75_ 静态生成 generateStaticParams.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-76: 清除特定路径的缓存",
+    "lang": "text",
+    "chapter_file": "chapter-015.md",
+    "line": 301,
+    "extracted_file": "src\\代码清单15-76_ 清除特定路径的缓存.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单15-77: 在 Server Action 中",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 315,
+    "extracted_file": "src\\代码清单15-77_ 在 Server Action 中.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-78: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 347,
+    "extracted_file": "src\\代码清单15-78_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-79: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 378,
+    "extracted_file": "src\\代码清单15-79_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-80: 正确：在调用前捕获所有需要的数据",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 483,
+    "extracted_file": "src\\代码清单15-80_ 正确：在调用前捕获所有需要的数据.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-81: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 497,
+    "extracted_file": "src\\代码清单15-81_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-82: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 567,
+    "extracted_file": "src\\代码清单15-82_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-83: Next.js 15 中，CSS Modules 的行为没有大的变化",
+    "lang": "text",
+    "chapter_file": "chapter-015.md",
+    "line": 598,
+    "extracted_file": "src\\代码清单15-83_ Next.js 15 中，CSS Modules 的行为没有大的变化.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单15-84: 确保你的类型定义是完整的",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 616,
+    "extracted_file": "src\\代码清单15-84_ 确保你的类型定义是完整的.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-85: Bash 命令执行",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 633,
+    "extracted_file": "src\\代码清单15-85_ Bash 命令执行.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单15-86: JSON 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 668,
+    "extracted_file": "src\\代码清单15-86_ JSON 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-87: 迁移前",
+    "lang": "tsx",
+    "chapter_file": "chapter-015.md",
+    "line": 683,
+    "extracted_file": "src\\代码清单15-87_ 迁移前.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单15-88: 确认 fetch 请求有明确的 cache 选项",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 698,
+    "extracted_file": "src\\代码清单15-88_ 确认 fetch 请求有明确的 cache 选项.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-1: 项目目录结构/路径示意:my-blog/",
+    "lang": "text",
+    "chapter_file": "chapter-016.md",
+    "line": 48,
+    "extracted_file": "src\\代码清单16-1_ 项目目录结构_路径示意_my-blog_.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单16-3: 数据库 ORM",
+    "lang": "text",
+    "chapter_file": "chapter-016.md",
+    "line": 96,
+    "extracted_file": "src\\代码清单16-3_ 数据库 ORM.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单16-4: prisma/schema.prisma",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 120,
+    "extracted_file": "src\\代码清单16-4_ prisma_schema.prisma.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-6: src/lib/db.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 198,
+    "extracted_file": "src\\代码清单16-6_ src_lib_db.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-7: src/components/ui/button.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 228,
+    "extracted_file": "src\\代码清单16-7_ src_components_ui_button.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-8: src/lib/utils.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 277,
+    "extracted_file": "src\\代码清单16-8_ src_lib_utils.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-9: Server Component 示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 319,
+    "extracted_file": "src\\代码清单16-9_ Server Component 示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-10: Link 导航组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-016.md",
+    "line": 376,
+    "extracted_file": "src\\代码清单16-10_ Link 导航组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-11: 静态生成 generateStaticParams",
+    "lang": "tsx",
+    "chapter_file": "chapter-016.md",
+    "line": 449,
+    "extracted_file": "src\\代码清单16-11_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-4: src/lib/auth.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 63,
+    "extracted_file": "src\\代码清单17-4_ src_lib_auth.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-5: src/types/next-auth.d.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 135,
+    "extracted_file": "src\\代码清单17-5_ src_types_next-auth.d.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-6: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 167,
+    "extracted_file": "src\\代码清单17-6_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-7: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 264,
+    "extracted_file": "src\\代码清单17-7_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-8: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 393,
+    "extracted_file": "src\\代码清单17-8_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-9: 图片优化组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 460,
+    "extracted_file": "src\\代码清单17-9_ 图片优化组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-10: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 498,
+    "extracted_file": "src\\代码清单17-10_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-11: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 544,
+    "extracted_file": "src\\代码清单17-11_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-12: src/lib/permissions.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 593,
+    "extracted_file": "src\\代码清单17-12_ src_lib_permissions.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-13: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 624,
+    "extracted_file": "src\\代码清单17-13_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-14: 注册时加密密码",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 660,
+    "extracted_file": "src\\代码清单17-14_ 注册时加密密码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-15: JS 代码",
+    "lang": "text",
+    "chapter_file": "chapter-017.md",
+    "line": 673,
+    "extracted_file": "src\\代码清单17-15_ JS 代码.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单17-16: src/lib/auth.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-017.md",
+    "line": 687,
+    "extracted_file": "src\\代码清单17-16_ src_lib_auth.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单17-17: headers 操作",
+    "lang": "tsx",
+    "chapter_file": "chapter-017.md",
+    "line": 710,
+    "extracted_file": "src\\代码清单17-17_ headers 操作.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单18-1: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 69,
+    "extracted_file": "src\\代码清单18-1_ 构建项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-2: 数据库连接",
+    "lang": "text",
+    "chapter_file": "chapter-018.md",
+    "line": 112,
+    "extracted_file": "src\\代码清单18-2_ 数据库连接.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单18-5: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 163,
+    "extracted_file": "src\\代码清单18-5_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-22: next.config.ts standalone 输出配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 186,
+    "extracted_file": "src\\代码清单18-22_ next.config.ts standalone 输出配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-23: 多阶段 Dockerfile 模板",
+    "lang": "dockerfile",
+    "chapter_file": "chapter-018.md",
+    "line": 208,
+    "extracted_file": "src\\代码清单18-23_ 多阶段 Dockerfile 模板.dockerfile",
+    "source": null
+  },
+  {
+    "title": "代码清单18-24: docker-compose.yml 多容器编排",
+    "lang": "yaml",
+    "chapter_file": "chapter-018.md",
+    "line": 254,
+    "extracted_file": "src\\代码清单18-24_ docker-compose.yml 多容器编排.yml",
+    "source": null
+  },
+  {
+    "title": "代码清单18-25: Nginx 反向代理配置",
+    "lang": "nginx",
+    "chapter_file": "chapter-018.md",
+    "line": 297,
+    "extracted_file": "src\\代码清单18-25_ Nginx 反向代理配置.conf",
+    "source": null
+  },
+  {
+    "title": "代码清单18-6: JSON 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 376,
+    "extracted_file": "src\\代码清单18-6_ JSON 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-8: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 427,
+    "extracted_file": "src\\代码清单18-8_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-9: 普通导入会导入整个库",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 459,
+    "extracted_file": "src\\代码清单18-9_ 普通导入会导入整个库.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-10: 初始化 Prisma",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 476,
+    "extracted_file": "src\\代码清单18-10_ 初始化 Prisma.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-13: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 520,
+    "extracted_file": "src\\代码清单18-13_ 构建项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-14: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 542,
+    "extracted_file": "src\\代码清单18-14_ 构建项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-16: sentry.client.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 660,
+    "extracted_file": "src\\代码清单18-16_ sentry.client.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-17: src/lib/metrics.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-018.md",
+    "line": 685,
+    "extracted_file": "src\\代码清单18-17_ src_lib_metrics.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单18-19: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-018.md",
+    "line": 755,
+    "extracted_file": "src\\代码清单18-19_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单18-20: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-018.md",
+    "line": 778,
+    "extracted_file": "src\\代码清单18-20_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单18-21: 在 Server Action 中",
+    "lang": "tsx",
+    "chapter_file": "chapter-018.md",
+    "line": 794,
+    "extracted_file": "src\\代码清单18-21_ 在 Server Action 中.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-3: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 56,
+    "extracted_file": "src\\代码清单19-3_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-5: src/lib/web-vitals.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 83,
+    "extracted_file": "src\\代码清单19-5_ src_lib_web-vitals.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-6: 图片优化组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 106,
+    "extracted_file": "src\\代码清单19-6_ 图片优化组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-7: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 129,
+    "extracted_file": "src\\代码清单19-7_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-8: 尽可能使用静态生成",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 147,
+    "extracted_file": "src\\代码清单19-8_ 尽可能使用静态生成.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-9: 始终为图片指定宽高",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 164,
+    "extracted_file": "src\\代码清单19-9_ 始终为图片指定宽高.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-11: app/layout.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 191,
+    "extracted_file": "src\\代码清单19-11_ app_layout.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-12: 将耗时操作移到 Web Worker",
+    "lang": "text",
+    "chapter_file": "chapter-019.md",
+    "line": 206,
+    "extracted_file": "src\\代码清单19-12_ 将耗时操作移到 Web Worker.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单19-13: 动态导入非关键组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 220,
+    "extracted_file": "src\\代码清单19-13_ 动态导入非关键组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-14: 避免引入过大的库",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 233,
+    "extracted_file": "src\\代码清单19-14_ 避免引入过大的库.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-15: 使用具名导出而非默认导出",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 249,
+    "extracted_file": "src\\代码清单19-15_ 使用具名导出而非默认导出.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-16: app/dashboard/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 263,
+    "extracted_file": "src\\代码清单19-16_ app_dashboard_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-1: date-fns 与 lodash-es 按需导入示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 296,
+    "extracted_file": "src\\代码清单19-1_ date-fns 与 lodash-es 按需导入示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-18: 将 import 分组以便更好地 tree-shake",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 309,
+    "extracted_file": "src\\代码清单19-18_ 将 import 分组以便更好地 tree-shake.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-19: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 344,
+    "extracted_file": "src\\代码清单19-19_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-20: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 371,
+    "extracted_file": "src\\代码清单19-20_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-21: 在 Server Action 中更新数据时清除相关缓存",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 393,
+    "extracted_file": "src\\代码清单19-21_ 在 Server Action 中更新数据时清除相关缓存.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-22: 使用 clientComponents 减少服务端组件的水合",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 427,
+    "extracted_file": "src\\代码清单19-22_ 使用 clientComponents 减少服务端组件的水合.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-23: app/blog/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 451,
+    "extracted_file": "src\\代码清单19-23_ app_blog_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-25: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-019.md",
+    "line": 496,
+    "extracted_file": "src\\代码清单19-25_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-26: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 533,
+    "extracted_file": "src\\代码清单19-26_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-1: app/posts/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单20-1_ app_posts_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-2: app/posts/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 45,
+    "extracted_file": "src\\代码清单20-2_ app_posts_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-3: app/dashboard/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 78,
+    "extracted_file": "src\\代码清单20-3_ app_dashboard_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-4: 串行获取 - 慢，因为每个请求要等待前一个完成",
+    "lang": "text",
+    "chapter_file": "chapter-020.md",
+    "line": 101,
+    "extracted_file": "src\\代码清单20-4_ 串行获取 - 慢，因为每个请求要等待前一个完成.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单20-5: notFound 处理",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 118,
+    "extracted_file": "src\\代码清单20-5_ notFound 处理.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-6: 默认缓存（静态）",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 157,
+    "extracted_file": "src\\代码清单20-6_ 默认缓存（静态）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-7: 构建时获取数据，生成静态页面",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 179,
+    "extracted_file": "src\\代码清单20-7_ 构建时获取数据，生成静态页面.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-8: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 192,
+    "extracted_file": "src\\代码清单20-8_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-9: 每次请求都重新渲染",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 205,
+    "extracted_file": "src\\代码清单20-9_ 每次请求都重新渲染.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-10: 使用 revalidateTag 精确控制缓存",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 218,
+    "extracted_file": "src\\代码清单20-10_ 使用 revalidateTag 精确控制缓存.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-11: src/lib/api.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 247,
+    "extracted_file": "src\\代码清单20-11_ src_lib_api.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-12: src/lib/api.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 285,
+    "extracted_file": "src\\代码清单20-12_ src_lib_api.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-13: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 325,
+    "extracted_file": "src\\代码清单20-13_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-14: getPosts 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 369,
+    "extracted_file": "src\\代码清单20-14_ getPosts 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-15: 缓存 GraphQL 响应",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 421,
+    "extracted_file": "src\\代码清单20-15_ 缓存 GraphQL 响应.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-16: 默认行为：鼠标悬停时预获取",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 454,
+    "extracted_file": "src\\代码清单20-16_ 默认行为：鼠标悬停时预获取.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单20-17: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-020.md",
+    "line": 474,
+    "extracted_file": "src\\代码清单20-17_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单20-18: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-020.md",
+    "line": 503,
+    "extracted_file": "src\\代码清单20-18_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-1: app/(marketing)/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-021.md",
+    "line": 94,
+    "extracted_file": "src\\代码清单21-1_ app_(marketing)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单21-2: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-021.md",
+    "line": 117,
+    "extracted_file": "src\\代码清单21-2_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单21-3: Link 导航组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 146,
+    "extracted_file": "src\\代码清单21-3_ Link 导航组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-4: packages/shell/next.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 191,
+    "extracted_file": "src\\代码清单21-4_ packages_shell_next.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-5: packages/shell/app/page.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-021.md",
+    "line": 228,
+    "extracted_file": "src\\代码清单21-5_ packages_shell_app_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单21-6: packages/marketing/next.config.js",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 262,
+    "extracted_file": "src\\代码清单21-6_ packages_marketing_next.config.js.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-7: shared/events.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 302,
+    "extracted_file": "src\\代码清单21-7_ shared_events.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-8: 发送事件（dashboard 微应用）",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 344,
+    "extracted_file": "src\\代码清单21-8_ 发送事件（dashboard 微应用）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-9: shell 应用导航到微应用并传递数据",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 375,
+    "extracted_file": "src\\代码清单21-9_ shell 应用导航到微应用并传递数据.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-10: shared/store/user-store.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 404,
+    "extracted_file": "src\\代码清单21-10_ shared_store_user-store.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-11: dashboard 微应用",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 424,
+    "extracted_file": "src\\代码清单21-11_ dashboard 微应用.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-12: 在任何微应用中",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 469,
+    "extracted_file": "src\\代码清单21-12_ 在任何微应用中.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单21-13: package.json (根目录)",
+    "lang": "typescript",
+    "chapter_file": "chapter-021.md",
+    "line": 488,
+    "extracted_file": "src\\代码清单21-13_ package.json (根目录).ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-1: 多类型参数",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 17,
+    "extracted_file": "src\\代码清单22-1_ 多类型参数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-2: 约束 T 必须有 length 属性",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 38,
+    "extracted_file": "src\\代码清单22-2_ 约束 T 必须有 length 属性.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-3: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 63,
+    "extracted_file": "src\\代码清单22-3_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-4: Next.js 风格的 API 响应类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 92,
+    "extracted_file": "src\\代码清单22-4_ Next.js 风格的 API 响应类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-5: 条件类型基本用法",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 149,
+    "extracted_file": "src\\代码清单22-5_ 条件类型基本用法.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-6: 分布式条件类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 174,
+    "extracted_file": "src\\代码清单22-6_ 分布式条件类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-7: Exclude<T, U> - 从 T 中排除可以赋值给 U 的类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 191,
+    "extracted_file": "src\\代码清单22-7_ Exclude_T, U_ - 从 T 中排除可以赋值给 U 的类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-8: 根据 API 路径推断响应类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 213,
+    "extracted_file": "src\\代码清单22-8_ 根据 API 路径推断响应类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-9: TS 代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 248,
+    "extracted_file": "src\\代码清单22-9_ TS 代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-10: 全部变为只读",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 268,
+    "extracted_file": "src\\代码清单22-10_ 全部变为只读.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-11: 将所有属性值变为指定类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 293,
+    "extracted_file": "src\\代码清单22-11_ 将所有属性值变为指定类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-12: 基于属性值类型进行映射",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 307,
+    "extracted_file": "src\\代码清单22-12_ 基于属性值类型进行映射.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-13: 组合多个类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 326,
+    "extracted_file": "src\\代码清单22-13_ 组合多个类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-14: 类型安全的 API 路由",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 340,
+    "extracted_file": "src\\代码清单22-14_ 类型安全的 API 路由.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-15: 生成所有可能的类名组合",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 356,
+    "extracted_file": "src\\代码清单22-15_ 生成所有可能的类名组合.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-16: isCat 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 372,
+    "extracted_file": "src\\代码清单22-16_ isCat 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-17: processValue 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 403,
+    "extracted_file": "src\\代码清单22-17_ processValue 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-18: 使用 as 断言",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 418,
+    "extracted_file": "src\\代码清单22-18_ 使用 as 断言.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-19: types/my-library/index.d.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 445,
+    "extracted_file": "src\\代码清单22-19_ types_my-library_index.d.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-20: 为 next-auth 扩展用户类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 462,
+    "extracted_file": "src\\代码清单22-20_ 为 next-auth 扩展用户类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-21: types/global.d.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 482,
+    "extracted_file": "src\\代码清单22-21_ types_global.d.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-22: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-022.md",
+    "line": 505,
+    "extracted_file": "src\\代码清单22-22_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单22-23: notFound 处理",
+    "lang": "typescript",
+    "chapter_file": "chapter-022.md",
+    "line": 545,
+    "extracted_file": "src\\代码清单22-23_ notFound 处理.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单22-24: 使用 Zod 定义表单 schema",
+    "lang": "tsx",
+    "chapter_file": "chapter-022.md",
+    "line": 573,
+    "extracted_file": "src\\代码清单22-24_ 使用 Zod 定义表单 schema.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-1: vitest.config.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 68,
+    "extracted_file": "src\\代码清单23-1_ vitest.config.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-2: vitest.setup.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 98,
+    "extracted_file": "src\\代码清单23-2_ vitest.setup.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-3: src/components/Button.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 136,
+    "extracted_file": "src\\代码清单23-3_ src_components_Button.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-4: src/components/Button.test.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 168,
+    "extracted_file": "src\\代码清单23-4_ src_components_Button.test.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-5: Mock 与 Spy 用法",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 221,
+    "extracted_file": "src\\代码清单23-5_ Mock 与 Spy 用法.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-6: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 282,
+    "extracted_file": "src\\代码清单23-6_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-7: src/app/api/posts/__tests__/route.test.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 315,
+    "extracted_file": "src\\代码清单23-7_ src_app_api_posts___tests___route.test.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-8: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-023.md",
+    "line": 381,
+    "extracted_file": "src\\代码清单23-8_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单23-9: src/app/actions/__tests__/posts.test.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 406,
+    "extracted_file": "src\\代码清单23-9_ src_app_actions___tests___posts.test.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-10: playwright.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 463,
+    "extracted_file": "src\\代码清单23-10_ playwright.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-11: e2e/blog.spec.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 495,
+    "extracted_file": "src\\代码清单23-11_ e2e_blog.spec.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-12: e2e/auth.spec.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 530,
+    "extracted_file": "src\\代码清单23-12_ e2e_auth.spec.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-13: e2e/visual.spec.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 577,
+    "extracted_file": "src\\代码清单23-13_ e2e_visual.spec.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-14: jest.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 609,
+    "extracted_file": "src\\代码清单23-14_ jest.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-15: src/mocks/handlers.ts",
+    "lang": "javascript",
+    "chapter_file": "chapter-023.md",
+    "line": 643,
+    "extracted_file": "src\\代码清单23-15_ src_mocks_handlers.ts.js",
+    "source": null
+  },
+  {
+    "title": "代码清单23-16: src/mocks/browser.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 666,
+    "extracted_file": "src\\代码清单23-16_ src_mocks_browser.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-17: src/mocks/server.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-023.md",
+    "line": 675,
+    "extracted_file": "src\\代码清单23-17_ src_mocks_server.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-18: src/app/__tests__/posts.test.tsx",
+    "lang": "javascript",
+    "chapter_file": "chapter-023.md",
+    "line": 686,
+    "extracted_file": "src\\代码清单23-18_ src_app___tests___posts.test.tsx.js",
+    "source": null
+  },
+  {
+    "title": "代码清单24-1: 标题层级",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 52,
+    "extracted_file": "src\\代码清单24-1_ 标题层级.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-2: 不好：跳过了 h2",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 65,
+    "extracted_file": "src\\代码清单24-2_ 不好：跳过了 h2.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-3: 不好：使用 div 模拟按钮",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 79,
+    "extracted_file": "src\\代码清单24-3_ 不好：使用 div 模拟按钮.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-4: 使用 label 关联表单元素",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 108,
+    "extracted_file": "src\\代码清单24-4_ 使用 label 关联表单元素.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-5: 链接与按钮的使用场景",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 135,
+    "extracted_file": "src\\代码清单24-5_ 链接与按钮的使用场景.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-6: 好：使用原生元素，自动支持焦点",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 153,
+    "extracted_file": "src\\代码清单24-6_ 好：使用原生元素，自动支持焦点.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-7: src/components/modal.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 171,
+    "extracted_file": "src\\代码清单24-7_ src_components_modal.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-8: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 211,
+    "extracted_file": "src\\代码清单24-8_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-9: 全局样式 /",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 245,
+    "extracted_file": "src\\代码清单24-9_ 全局样式 _.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-10: 为复杂交互提供键盘快捷键",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 265,
+    "extracted_file": "src\\代码清单24-10_ 为复杂交互提供键盘快捷键.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-11: Accordion 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 322,
+    "extracted_file": "src\\代码清单24-11_ Accordion 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-12: Tabs 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 353,
+    "extracted_file": "src\\代码清单24-12_ Tabs 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-13: FormField 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 391,
+    "extracted_file": "src\\代码清单24-13_ FormField 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-14: 有意义的图片需要描述",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 438,
+    "extracted_file": "src\\代码清单24-14_ 有意义的图片需要描述.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-15: 使用 aria-live 通知屏幕阅读器",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 466,
+    "extracted_file": "src\\代码清单24-15_ 使用 aria-live 通知屏幕阅读器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-16: LoadingContent 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-024.md",
+    "line": 495,
+    "extracted_file": "src\\代码清单24-16_ LoadingContent 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单24-17: 不能仅依赖颜色传递信息",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 543,
+    "extracted_file": "src\\代码清单24-17_ 不能仅依赖颜色传递信息.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单24-18: 使用 Tailwind 的 dark: 前缀",
+    "lang": "tsx",
+    "chapter_file": "chapter-024.md",
+    "line": 558,
+    "extracted_file": "src\\代码清单24-18_ 使用 Tailwind 的 dark_ 前缀.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-1: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单25-1_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-2: notFound 处理",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 87,
+    "extracted_file": "src\\代码清单25-2_ notFound 处理.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-3: generateMetadata 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 139,
+    "extracted_file": "src\\代码清单25-3_ generateMetadata 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-4: app/blog/[slug]/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 169,
+    "extracted_file": "src\\代码清单25-4_ app_blog_[slug]_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-5: 文章类型",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 213,
+    "extracted_file": "src\\代码清单25-5_ 文章类型.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-6: app/sitemap.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 263,
+    "extracted_file": "src\\代码清单25-6_ app_sitemap.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-7: app/robots.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 318,
+    "extracted_file": "src\\代码清单25-7_ app_robots.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-8: 图片优化组件",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 349,
+    "extracted_file": "src\\代码清单25-8_ 图片优化组件.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-9: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 367,
+    "extracted_file": "src\\代码清单25-9_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-10: 尽可能使用静态生成",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 394,
+    "extracted_file": "src\\代码清单25-10_ 尽可能使用静态生成.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-11: app/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-025.md",
+    "line": 407,
+    "extracted_file": "src\\代码清单25-11_ app_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单25-12: app/layout.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 450,
+    "extracted_file": "src\\代码清单25-12_ app_layout.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单25-13: app/[lang]/layout.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-025.md",
+    "line": 466,
+    "extracted_file": "src\\代码清单25-13_ app_[lang]_layout.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-44: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-026.md",
+    "line": 49,
+    "extracted_file": "src\\代码清单26-44_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单26-45: TypeScript 代码",
+    "lang": "tsx",
+    "chapter_file": "chapter-026.md",
+    "line": 103,
+    "extracted_file": "src\\代码清单26-45_ TypeScript 代码.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单26-46: 好：使用 Prisma ORM（自动防止 SQL 注入）",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 121,
+    "extracted_file": "src\\代码清单26-46_ 好：使用 Prisma ORM（自动防止 SQL 注入）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-47: 安全：React 自动转义",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 143,
+    "extracted_file": "src\\代码清单26-47_ 安全：React 自动转义.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-48: SQL 查询",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 161,
+    "extracted_file": "src\\代码清单26-48_ SQL 查询.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-49: headers 操作",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 175,
+    "extracted_file": "src\\代码清单26-49_ headers 操作.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-50: src/middleware.ts",
+    "lang": "javascript",
+    "chapter_file": "chapter-026.md",
+    "line": 223,
+    "extracted_file": "src\\代码清单26-50_ src_middleware.ts.js",
+    "source": null
+  },
+  {
+    "title": "代码清单26-51: src/lib/auth.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 247,
+    "extracted_file": "src\\代码清单26-51_ src_lib_auth.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-52: 加密密码（使用足够长的 salt）",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 279,
+    "extracted_file": "src\\代码清单26-52_ 加密密码（使用足够长的 salt）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-53: JS 代码",
+    "lang": "text",
+    "chapter_file": "chapter-026.md",
+    "line": 292,
+    "extracted_file": "src\\代码清单26-53_ JS 代码.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单26-54: src/lib/rate-limit.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-026.md",
+    "line": 306,
+    "extracted_file": "src\\代码清单26-54_ src_lib_rate-limit.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单26-55: 使用otplib 实现 TOTP 2FA",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 336,
+    "extracted_file": "src\\代码清单26-55_ 使用otplib 实现 TOTP 2FA.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-56: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-026.md",
+    "line": 357,
+    "extracted_file": "src\\代码清单26-56_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单26-57: 支持多密钥，简化密钥轮换",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 378,
+    "extracted_file": "src\\代码清单26-57_ 支持多密钥，简化密钥轮换.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单26-58: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 405,
+    "extracted_file": "src\\代码清单26-58_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单27-3: src/lib/ai.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-027.md",
+    "line": 61,
+    "extracted_file": "src\\代码清单27-3_ src_lib_ai.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单27-4: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 71,
+    "extracted_file": "src\\代码清单27-4_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-5: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 111,
+    "extracted_file": "src\\代码清单27-5_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-7: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 149,
+    "extracted_file": "src\\代码清单27-7_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-8: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 223,
+    "extracted_file": "src\\代码清单27-8_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-9: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 261,
+    "extracted_file": "src\\代码清单27-9_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-10: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 300,
+    "extracted_file": "src\\代码清单27-10_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-11: src/lib/vector-store.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 356,
+    "extracted_file": "src\\代码清单27-11_ src_lib_vector-store.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-12: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 396,
+    "extracted_file": "src\\代码清单27-12_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-13: src/lib/retry.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 447,
+    "extracted_file": "src\\代码清单27-13_ src_lib_retry.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-14: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 479,
+    "extracted_file": "src\\代码清单27-14_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-15: src/lib/rate-limiter.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-027.md",
+    "line": 511,
+    "extracted_file": "src\\代码清单27-15_ src_lib_rate-limiter.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单27-16: src/lib/token-counter.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-027.md",
+    "line": 542,
+    "extracted_file": "src\\代码清单27-16_ src_lib_token-counter.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单27-17: src/lib/ai-cache.ts",
+    "lang": "tsx",
+    "chapter_file": "chapter-027.md",
+    "line": 576,
+    "extracted_file": "src\\代码清单27-17_ src_lib_ai-cache.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单29-1: contracts 列表页骨架",
+    "lang": "tsx",
+    "chapter_file": "chapter-029.md",
+    "line": 37,
+    "extracted_file": "src\\代码清单29-1_ contracts 列表页骨架.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/contracts/page.tsx"
+  },
+  {
+    "title": "代码清单29-2: equipment 列表页 useEffect",
+    "lang": "tsx",
+    "chapter_file": "chapter-029.md",
+    "line": 79,
+    "extracted_file": "src\\代码清单29-2_ equipment 列表页 useEffect.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/equipment/page.tsx"
+  },
+  {
+    "title": "代码清单29-3: personnel 列表页 useEffect",
+    "lang": "tsx",
+    "chapter_file": "chapter-029.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单29-3_ personnel 列表页 useEffect.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/personnel/page.tsx"
+  },
+  {
+    "title": "代码清单29-4: /api/contracts 列表与新建",
+    "lang": "ts",
+    "chapter_file": "chapter-029.md",
+    "line": 107,
+    "extracted_file": "src\\代码清单29-4_ _api_contracts 列表与新建.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/contracts/route.ts"
+  },
+  {
+    "title": "代码清单29-5: /api/contracts/[id] 单条编辑",
+    "lang": "ts",
+    "chapter_file": "chapter-029.md",
+    "line": 140,
+    "extracted_file": "src\\代码清单29-5_ _api_contracts_[id] 单条编辑.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/contracts/[id]/route.ts"
+  },
+  {
+    "title": "代码清单29-6: equipment 列表页搜索框的本地过滤",
+    "lang": "tsx",
+    "chapter_file": "chapter-029.md",
+    "line": 192,
+    "extracted_file": "src\\代码清单29-6_ equipment 列表页搜索框的本地过滤.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/equipment/page.tsx"
+  },
+  {
+    "title": "代码清单29-7: /api/equipment 列表与新增",
+    "lang": "ts",
+    "chapter_file": "chapter-029.md",
+    "line": 218,
+    "extracted_file": "src\\代码清单29-7_ _api_equipment 列表与新增.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/equipment/route.ts"
+  },
+  {
+    "title": "代码清单29-8: /api/equipment/[id] 编辑",
+    "lang": "ts",
+    "chapter_file": "chapter-029.md",
+    "line": 252,
+    "extracted_file": "src\\代码清单29-8_ _api_equipment_[id] 编辑.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/equipment/[id]/route.ts"
+  },
+  {
+    "title": "代码清单29-9: /api/personnel 列表与新增",
+    "lang": "ts",
+    "chapter_file": "chapter-029.md",
+    "line": 277,
+    "extracted_file": "src\\代码清单29-9_ _api_personnel 列表与新增.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/personnel/route.ts"
+  },
+  {
+    "title": "代码清单31-1: 会话 cookie 常量",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 72,
+    "extracted_file": "src\\代码清单31-1_ 会话 cookie 常量.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/session.ts"
+  },
+  {
+    "title": "代码清单31-2: POST /api/auth/logout —— 同名 cookie 写空值立即过期",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 86,
+    "extracted_file": "src\\代码清单31-2_ POST _api_auth_logout —— 同名 cookie 写空值立即过期.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/auth/logout/route.ts"
+  },
+  {
+    "title": "代码清单31-3: JWT 常量与签发 / 验签函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 110,
+    "extracted_file": "src\\代码清单31-3_ JWT 常量与签发 _ 验签函数.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/jwt.ts"
+  },
+  {
+    "title": "代码清单31-4: token → SessionUser",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 153,
+    "extracted_file": "src\\代码清单31-4_ token → SessionUser.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/session.ts"
+  },
+  {
+    "title": "代码清单31-5: middleware 核心 —— 公开路径 + 边缘验签 + 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 187,
+    "extracted_file": "src\\代码清单31-5_ middleware 核心 —— 公开路径 + 边缘验签 + 重定向.ts",
+    "source": "code/lab-management-system-nextjs/src/middleware.ts"
+  },
+  {
+    "title": "代码清单31-6: AuthError / getCurrentUser / requirePermission",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 229,
+    "extracted_file": "src\\代码清单31-6_ AuthError _ getCurrentUser _ requirePermission.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/auth-server.ts"
+  },
+  {
+    "title": "代码清单31-7: 权限码目录与判定函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 259,
+    "extracted_file": "src\\代码清单31-7_ 权限码目录与判定函数.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/permissions.ts"
+  },
+  {
+    "title": "代码清单31-8: PermissionProvider + usePermissions",
+    "lang": "tsx",
+    "chapter_file": "chapter-031.md",
+    "line": 279,
+    "extracted_file": "src\\代码清单31-8_ PermissionProvider + usePermissions.tsx",
+    "source": "code/lab-management-system-nextjs/src/features/auth/permission-context.tsx"
+  },
+  {
+    "title": "代码清单31-9: use-permission.ts 薄 re-export",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 302,
+    "extracted_file": "src\\代码清单31-9_ use-permission.ts 薄 re-export.ts",
+    "source": "code/lab-management-system-nextjs/src/features/auth/use-permission.ts"
+  },
+  {
+    "title": "代码清单31-10: HasPermission —— 声明式权限指令",
+    "lang": "tsx",
+    "chapter_file": "chapter-031.md",
+    "line": 307,
+    "extracted_file": "src\\代码清单31-10_ HasPermission —— 声明式权限指令.tsx",
+    "source": "code/lab-management-system-nextjs/src/features/auth/has-permission.tsx"
+  },
+  {
+    "title": "代码清单31-11: scrypt 口令哈希与校验",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 335,
+    "extracted_file": "src\\代码清单31-11_ scrypt 口令哈希与校验.ts",
+    "source": "code/lab-management-system-nextjs/src/lib/password.ts"
+  },
+  {
+    "title": "代码清单31-12: 登录表单（client 组件）",
+    "lang": "tsx",
+    "chapter_file": "chapter-031.md",
+    "line": 375,
+    "extracted_file": "src\\代码清单31-12_ 登录表单（client 组件）.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/login/login-form.tsx"
+  },
+  {
+    "title": "代码清单31-13: POST /api/auth/login",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 441,
+    "extracted_file": "src\\代码清单31-13_ POST _api_auth_login.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/auth/login/route.ts"
+  },
+  {
+    "title": "代码清单31-14: POST /api/auth/logout",
+    "lang": "typescript",
+    "chapter_file": "chapter-031.md",
+    "line": 478,
+    "extracted_file": "src\\代码清单31-14_ POST _api_auth_logout.ts",
+    "source": "code/lab-management-system-nextjs/src/app/api/auth/logout/route.ts"
+  },
+  {
+    "title": "代码清单32-1: 根 layout 的 metadata 默认值与 template",
+    "lang": "tsx",
+    "chapter_file": "chapter-032.md",
+    "line": 50,
+    "extracted_file": "src\\代码清单32-1_ 根 layout 的 metadata 默认值与 template.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单32-2: generateMetadata 动态元数据（设计草案）",
+    "lang": "tsx",
+    "chapter_file": "chapter-032.md",
+    "line": 70,
+    "extracted_file": "src\\代码清单32-2_ generateMetadata 动态元数据（设计草案）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单32-3: lab 仓 middleware 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-032.md",
+    "line": 102,
+    "extracted_file": "src\\代码清单32-3_ lab 仓 middleware 全文.ts",
+    "source": "code/lab-management-system-nextjs/src/middleware.ts"
+  },
+  {
+    "title": "代码清单32-4: middleware 注入 x-robots-tag（设计草案）",
+    "lang": "ts",
+    "chapter_file": "chapter-032.md",
+    "line": 149,
+    "extracted_file": "src\\代码清单32-4_ middleware 注入 x-robots-tag（设计草案）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单32-5: ADR-0001 节录 — Context + Decision（节选，非逐字引用）",
+    "lang": "md",
+    "chapter_file": "chapter-032.md",
+    "line": 164,
+    "extracted_file": "src\\代码清单32-5_ ADR-0001 节录 — Context + Decision（节选，非逐字引用）.txt",
+    "source": "code/lab-management-system-nextjs/docs/adr/ADR-0001-会话凭据-httpOnly-cookie.md"
+  },
+  {
+    "title": "代码清单32-6: lab 仓 403 错误页",
+    "lang": "tsx",
+    "chapter_file": "chapter-032.md",
+    "line": 196,
+    "extracted_file": "src\\代码清单32-6_ lab 仓 403 错误页.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/forbidden/page.tsx"
+  },
+  {
+    "title": "代码清单32-7: 根 layout 配套 404 页（设计草案）",
+    "lang": "tsx",
+    "chapter_file": "chapter-032.md",
+    "line": 220,
+    "extracted_file": "src\\代码清单32-7_ 根 layout 配套 404 页（设计草案）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单32-8: 全站 sitemap（设计草案）",
+    "lang": "ts",
+    "chapter_file": "chapter-032.md",
+    "line": 250,
+    "extracted_file": "src\\代码清单32-8_ 全站 sitemap（设计草案）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单32-9: 全站 robots（设计草案）",
+    "lang": "ts",
+    "chapter_file": "chapter-032.md",
+    "line": 275,
+    "extracted_file": "src\\代码清单32-9_ 全站 robots（设计草案）.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单33-1：dashboard 主页 (protected)/page.tsx（全文）",
+    "lang": "tsx",
+    "chapter_file": "chapter-033.md",
+    "line": 21,
+    "extracted_file": "src\\代码清单33-1：dashboard 主页 (protected)_page.tsx（全文）.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/page.tsx"
+  },
+  {
+    "title": "代码清单33-2：把 dashboard 拆为多个 Suspense 流式 chunk（设计草案，lab v1.0-001 未合入）",
+    "lang": "tsx",
+    "chapter_file": "chapter-033.md",
+    "line": 62,
+    "extracted_file": "src\\代码清单33-2：把 dashboard 拆为多个 Suspense 流式 chunk（设计草案，lab v1.0-001 未合入）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单33-3：报告汇总 summary/page.tsx 的当前形态（含省略的摘要）",
+    "lang": "tsx",
+    "chapter_file": "chapter-033.md",
+    "line": 100,
+    "extracted_file": "src\\代码清单33-3：报告汇总 summary_page.tsx 的当前形态（含省略的摘要）.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/summary/page.tsx"
+  },
+  {
+    "title": "代码清单33-4：受保护路由组根布局 layout.tsx（全文）",
+    "lang": "tsx",
+    "chapter_file": "chapter-033.md",
+    "line": 175,
+    "extracted_file": "src\\代码清单33-4：受保护路由组根布局 layout.tsx（全文）.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/layout.tsx"
+  },
+  {
+    "title": "代码清单33-5：客户端侧栏 sidebar-nav.tsx 关键片段（前 30 行 GROUPS 结构 + 关键函数签名（含省略））",
+    "lang": "tsx",
+    "chapter_file": "chapter-033.md",
+    "line": 208,
+    "extracted_file": "src\\代码清单33-5：客户端侧栏 sidebar-nav.tsx 关键片段（前 30 行 GROUPS 结构 + 关键函数签名（含省略））.tsx",
+    "source": "code/lab-management-system-nextjs/src/app/(protected)/sidebar-nav.tsx"
+  },
+  {
+    "title": "代码清单34-1：vitest.config.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 25,
+    "extracted_file": "src\\代码清单34-1：vitest.config.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单34-2：vitest.config.ts 的 alias 段（聚焦）",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 84,
+    "extracted_file": "src\\代码清单34-2：vitest.config.ts 的 alias 段（聚焦）.ts",
+    "source": "code/lab-management-system-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单34-3：vitest.config.ts 的 env 段（聚焦）",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 99,
+    "extracted_file": "src\\代码清单34-3：vitest.config.ts 的 env 段（聚焦）.ts",
+    "source": "code/lab-management-system-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单34-4：tests/setup.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 114,
+    "extracted_file": "src\\代码清单34-4：tests_setup.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/setup.ts"
+  },
+  {
+    "title": "代码清单34-5：tests/server-only.stub.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 131,
+    "extracted_file": "src\\代码清单34-5：tests_server-only.stub.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/server-only.stub.ts"
+  },
+  {
+    "title": "代码清单34-6：tests/auth/rbac.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 154,
+    "extracted_file": "src\\代码清单34-6：tests_auth_rbac.test.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/rbac.test.ts"
+  },
+  {
+    "title": "代码清单34-7：tests/auth/helpers.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 187,
+    "extracted_file": "src\\代码清单34-7：tests_auth_helpers.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/helpers.ts"
+  },
+  {
+    "title": "代码清单34-8：tests/auth/login-route.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 217,
+    "extracted_file": "src\\代码清单34-8：tests_auth_login-route.test.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/login-route.test.ts"
+  },
+  {
+    "title": "代码清单34-9：tests/fn.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 280,
+    "extracted_file": "src\\代码清单34-9：tests_fn.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/fn.ts"
+  },
+  {
+    "title": "代码清单34-10：tests/fnReporter.ts 核心两方法（节选）",
+    "lang": "ts",
+    "chapter_file": "chapter-034.md",
+    "line": 317,
+    "extracted_file": "src\\代码清单34-10：tests_fnReporter.ts 核心两方法（节选）.ts",
+    "source": "code/lab-management-system-nextjs/tests/fnReporter.ts"
+  },
+  {
+    "title": "代码清单34-11：.harness/stack.json 闸门段（节选）",
+    "lang": "json",
+    "chapter_file": "chapter-034.md",
+    "line": 382,
+    "extracted_file": "src\\代码清单34-11：.harness_stack.json 闸门段（节选）.json",
+    "source": "code/lab-management-system-nextjs/.harness/stack.json"
+  },
+  {
+    "title": "代码清单35-1: tenants 表（多租户核心）",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 74,
+    "extracted_file": "src\\代码清单35-1_ tenants 表（多租户核心）.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/db/schema.ts"
+  },
+  {
+    "title": "代码清单35-2: tenant_users 表（tenants ↔ users 多对多）",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单35-2_ tenant_users 表（tenants ↔ users 多对多）.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/db/schema.ts"
+  },
+  {
+    "title": "代码清单35-3: sso_states 表（OAuth state 缓存）",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 113,
+    "extracted_file": "src\\代码清单35-3_ sso_states 表（OAuth state 缓存）.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/db/schema.ts"
+  },
+  {
+    "title": "代码清单35-4: buildAuthorizeUrl（OAuth 授权 URL 确定性生成）",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 136,
+    "extracted_file": "src\\代码清单35-4_ buildAuthorizeUrl（OAuth 授权 URL 确定性生成）.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/lib/oauth-url.ts"
+  },
+  {
+    "title": "代码清单35-5: tenant-store 模块级 currentTenantId 缓存",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 183,
+    "extracted_file": "src\\代码清单35-5_ tenant-store 模块级 currentTenantId 缓存.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/lib/tenant-store.ts"
+  },
+  {
+    "title": "代码清单35-6: tenant-store CRUD + 当前租户读写",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 206,
+    "extracted_file": "src\\代码清单35-6_ tenant-store CRUD + 当前租户读写.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/lib/tenant-store.ts"
+  },
+  {
+    "title": "代码清单35-7: tenants 列表 server shell",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 263,
+    "extracted_file": "src\\代码清单35-7_ tenants 列表 server shell.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/app/(protected)/tenants/page.tsx"
+  },
+  {
+    "title": "代码清单35-8: TenantsClient 客户端列表筛选与删除",
+    "lang": "typescript",
+    "chapter_file": "chapter-035.md",
+    "line": 287,
+    "extracted_file": "src\\代码清单35-8_ TenantsClient 客户端列表筛选与删除.ts",
+    "source": "code/cases/saas-identity-platform-nextjs/src/app/(protected)/tenants/tenants-client.tsx"
+  },
+  {
+    "title": "代码清单36-1: app/posts/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 23,
+    "extracted_file": "src\\代码清单36-1_ app_posts_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-2: force-cache - 默认，缓存请求结果",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 44,
+    "extracted_file": "src\\代码清单36-2_ force-cache - 默认，缓存请求结果.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-3: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 65,
+    "extracted_file": "src\\代码清单36-3_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-4: app/blog/page.tsx",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 96,
+    "extracted_file": "src\\代码清单36-4_ app_blog_page.tsx.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-5: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 109,
+    "extracted_file": "src\\代码清单36-5_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-6: 清除多个标签",
+    "lang": "text",
+    "chapter_file": "chapter-036.md",
+    "line": 131,
+    "extracted_file": "src\\代码清单36-6_ 清除多个标签.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单36-7: 可以设计层级标签",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 139,
+    "extracted_file": "src\\代码清单36-7_ 可以设计层级标签.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-8: 清除特定页面",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 165,
+    "extracted_file": "src\\代码清单36-8_ 清除特定页面.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-9: 使用 revalidateTag（精确）",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 193,
+    "extracted_file": "src\\代码清单36-9_ 使用 revalidateTag（精确）.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-10: ISR revalidate 配置",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 233,
+    "extracted_file": "src\\代码清单36-10_ ISR revalidate 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-11: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 248,
+    "extracted_file": "src\\代码清单36-11_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-12: API 路由 POST 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 278,
+    "extracted_file": "src\\代码清单36-12_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-13: getUser 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 318,
+    "extracted_file": "src\\代码清单36-13_ getUser 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-14: 并行获取 - 推荐",
+    "lang": "typescript",
+    "chapter_file": "chapter-036.md",
+    "line": 349,
+    "extracted_file": "src\\代码清单36-14_ 并行获取 - 推荐.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单36-15: 不要缓存用户特定数据",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 387,
+    "extracted_file": "src\\代码清单36-15_ 不要缓存用户特定数据.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单36-16: 基于语言的数据",
+    "lang": "tsx",
+    "chapter_file": "chapter-036.md",
+    "line": 399,
+    "extracted_file": "src\\代码清单36-16_ 基于语言的数据.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单37-1: 图片优化组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 38,
+    "extracted_file": "src\\代码清单37-1_ 图片优化组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-2: 中间件运行在 Edge Runtime",
+    "lang": "text",
+    "chapter_file": "chapter-037.md",
+    "line": 64,
+    "extracted_file": "src\\代码清单37-2_ 中间件运行在 Edge Runtime.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单37-3: redirect 重定向",
+    "lang": "tsx",
+    "chapter_file": "chapter-037.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单37-3_ redirect 重定向.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单37-4: middleware 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-037.md",
+    "line": 144,
+    "extracted_file": "src\\代码清单37-4_ middleware 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单37-5: 图片优化组件",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 185,
+    "extracted_file": "src\\代码清单37-5_ 图片优化组件.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-6: middleware.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 270,
+    "extracted_file": "src\\代码清单37-6_ middleware.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-7: 简化版本：基于 cookie 读取实验组",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 322,
+    "extracted_file": "src\\代码清单37-7_ 简化版本：基于 cookie 读取实验组.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-8: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 357,
+    "extracted_file": "src\\代码清单37-8_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-9: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 381,
+    "extracted_file": "src\\代码清单37-9_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-10: redirect 重定向",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 400,
+    "extracted_file": "src\\代码清单37-10_ redirect 重定向.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-11: middleware 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-037.md",
+    "line": 443,
+    "extracted_file": "src\\代码清单37-11_ middleware 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单37-12: middleware 函数",
+    "lang": "javascript",
+    "chapter_file": "chapter-037.md",
+    "line": 462,
+    "extracted_file": "src\\代码清单37-12_ middleware 函数.js",
+    "source": null
+  },
+  {
+    "title": "代码清单38-1: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 20,
+    "extracted_file": "src\\代码清单38-1_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-2: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 80,
+    "extracted_file": "src\\代码清单38-2_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-3: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 161,
+    "extracted_file": "src\\代码清单38-3_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-4: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 206,
+    "extracted_file": "src\\代码清单38-4_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-5: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 265,
+    "extracted_file": "src\\代码清单38-5_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-6: publishPosts 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 313,
+    "extracted_file": "src\\代码清单38-6_ publishPosts 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-7: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 355,
+    "extracted_file": "src\\代码清单38-7_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-8: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 418,
+    "extracted_file": "src\\代码清单38-8_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-9: createPost 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 486,
+    "extracted_file": "src\\代码清单38-9_ createPost 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-10: withRetry 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 515,
+    "extracted_file": "src\\代码清单38-10_ withRetry 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-11: withTimeout 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 556,
+    "extracted_file": "src\\代码清单38-11_ withTimeout 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-12: headers 操作",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 596,
+    "extracted_file": "src\\代码清单38-12_ headers 操作.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-13: submitComment 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 630,
+    "extracted_file": "src\\代码清单38-13_ submitComment 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单38-14: createPost 函数",
+    "lang": "tsx",
+    "chapter_file": "chapter-038.md",
+    "line": 663,
+    "extracted_file": "src\\代码清单38-14_ createPost 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单39-1: React 19 的 useActionState (原 useFormState)",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 22,
+    "extracted_file": "src\\代码清单39-1_ React 19 的 useActionState (原 useFormState).ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-2: ChatRoom 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 45,
+    "extracted_file": "src\\代码清单39-2_ ChatRoom 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-3: SubmitButton 函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 80,
+    "extracted_file": "src\\代码清单39-3_ SubmitButton 函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-4: error.js 错误处理",
+    "lang": "tsx",
+    "chapter_file": "chapter-039.md",
+    "line": 120,
+    "extracted_file": "src\\代码清单39-4_ error.js 错误处理.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单39-5: 不再需要 forwardRef",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 143,
+    "extracted_file": "src\\代码清单39-5_ 不再需要 forwardRef.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-6: 可以在组件中直接渲染 metadata",
+    "lang": "tsx",
+    "chapter_file": "chapter-039.md",
+    "line": 156,
+    "extracted_file": "src\\代码清单39-6_ 可以在组件中直接渲染 metadata.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单39-7: ISR revalidate 配置",
+    "lang": "text",
+    "chapter_file": "chapter-039.md",
+    "line": 189,
+    "extracted_file": "src\\代码清单39-7_ ISR revalidate 配置.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单39-8: next.config.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 199,
+    "extracted_file": "src\\代码清单39-8_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-9: React 18",
+    "lang": "tsx",
+    "chapter_file": "chapter-039.md",
+    "line": 226,
+    "extracted_file": "src\\代码清单39-9_ React 18.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单39-10: Next.js 14: params 作为普通参数",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 252,
+    "extracted_file": "src\\代码清单39-10_ Next.js 14_ params 作为普通参数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-11: useRouter 钩子",
+    "lang": "typescript",
+    "chapter_file": "chapter-039.md",
+    "line": 269,
+    "extracted_file": "src\\代码清单39-11_ useRouter 钩子.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单39-12: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-039.md",
+    "line": 298,
+    "extracted_file": "src\\代码清单39-12_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单39-13: Client Component 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-039.md",
+    "line": 327,
+    "extracted_file": "src\\代码清单39-13_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单40-1: app/(marketing)/layout.tsx",
+    "lang": "tsx",
+    "chapter_file": "chapter-040.md",
+    "line": 68,
+    "extracted_file": "src\\代码清单40-1_ app_(marketing)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单40-2: features/auth/index.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-040.md",
+    "line": 141,
+    "extracted_file": "src\\代码清单40-2_ features_auth_index.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单40-3: lib/services/container.ts",
+    "lang": "typescript",
+    "chapter_file": "chapter-040.md",
+    "line": 168,
+    "extracted_file": "src\\代码清单40-3_ lib_services_container.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单40-4: Server Action 标记",
+    "lang": "tsx",
+    "chapter_file": "chapter-040.md",
+    "line": 197,
+    "extracted_file": "src\\代码清单40-4_ Server Action 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单40-5: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-040.md",
+    "line": 233,
+    "extracted_file": "src\\代码清单40-5_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单40-6: API 路由 GET 处理器",
+    "lang": "tsx",
+    "chapter_file": "chapter-040.md",
+    "line": 284,
+    "extracted_file": "src\\代码清单40-6_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单40-7: 单元测试：测试独立函数",
+    "lang": "typescript",
+    "chapter_file": "chapter-040.md",
+    "line": 341,
+    "extracted_file": "src\\代码清单40-7_ 单元测试：测试独立函数.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单41-1: lab vitest.config.ts 的 oxc.jsx automatic 段",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 66,
+    "extracted_file": "src\\代码清单41-1_ lab vitest.config.ts 的 oxc.jsx automatic 段.ts",
+    "source": "code/lab-management-system-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单41-2: saas vitest.config.ts 的 esbuild.jsx automatic 段",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 78,
+    "extracted_file": "src\\代码清单41-2_ saas vitest.config.ts 的 esbuild.jsx automatic 段.ts",
+    "source": "code/saas-identity-platform-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单41-3: 双仓 vitest.config.ts 的 alias 段（一致）",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 94,
+    "extracted_file": "src\\代码清单41-3_ 双仓 vitest.config.ts 的 alias 段（一致）.ts",
+    "source": "code/saas-identity-platform-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单41-4: 双仓 vitest.config.ts 的 env 段（一致）",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 107,
+    "extracted_file": "src\\代码清单41-4_ 双仓 vitest.config.ts 的 env 段（一致）.ts",
+    "source": "code/saas-identity-platform-nextjs/vitest.config.ts"
+  },
+  {
+    "title": "代码清单41-5: lab tests/setup.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 120,
+    "extracted_file": "src\\代码清单41-5_ lab tests_setup.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/setup.ts"
+  },
+  {
+    "title": "代码清单41-6: saas tests/setup.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 129,
+    "extracted_file": "src\\代码清单41-6_ saas tests_setup.ts 全文.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/setup.ts"
+  },
+  {
+    "title": "代码清单41-7: saas tests/server-only.stub.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 145,
+    "extracted_file": "src\\代码清单41-7_ saas tests_server-only.stub.ts 全文.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/server-only.stub.ts"
+  },
+  {
+    "title": "代码清单41-8: tests/auth/middleware.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 168,
+    "extracted_file": "src\\代码清单41-8_ tests_auth_middleware.test.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/middleware.test.ts"
+  },
+  {
+    "title": "代码清单41-9: tests/auth/session.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 207,
+    "extracted_file": "src\\代码清单41-9_ tests_auth_session.test.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/session.test.ts"
+  },
+  {
+    "title": "代码清单41-10: tests/auth/helpers.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 249,
+    "extracted_file": "src\\代码清单41-10_ tests_auth_helpers.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/auth/helpers.ts"
+  },
+  {
+    "title": "代码清单41-11: saas tests/features/audit-logs.test.tsx 头部",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 277,
+    "extracted_file": "src\\代码清单41-11_ saas tests_features_audit-logs.test.tsx 头部.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/features/audit-logs.test.tsx"
+  },
+  {
+    "title": "代码清单41-12: saas tests/features/audit-logs.test.tsx 的 fnTest 锚点段",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 293,
+    "extracted_file": "src\\代码清单41-12_ saas tests_features_audit-logs.test.tsx 的 fnTest 锚点段.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/features/audit-logs.test.tsx"
+  },
+  {
+    "title": "代码清单41-13: saas tests/features/audit-logs.test.tsx 的交互段",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 331,
+    "extracted_file": "src\\代码清单41-13_ saas tests_features_audit-logs.test.tsx 的交互段.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/features/audit-logs.test.tsx"
+  },
+  {
+    "title": "代码清单41-14: saas tests/features/apps-list.test.tsx 的 CRUD 三联测",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 412,
+    "extracted_file": "src\\代码清单41-14_ saas tests_features_apps-list.test.tsx 的 CRUD 三联测.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/features/apps-list.test.tsx"
+  },
+  {
+    "title": "代码清单41-15: saas tests/features/login-form.test.tsx 全文",
+    "lang": "tsx",
+    "chapter_file": "chapter-041.md",
+    "line": 502,
+    "extracted_file": "src\\代码清单41-15_ saas tests_features_login-form.test.tsx 全文.tsx",
+    "source": "code/saas-identity-platform-nextjs/tests/features/login-form.test.tsx"
+  },
+  {
+    "title": "代码清单41-16: 双仓 tests/fn.ts 全文（字节级一致）",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 564,
+    "extracted_file": "src\\代码清单41-16_ 双仓 tests_fn.ts 全文（字节级一致）.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/fn.ts"
+  },
+  {
+    "title": "代码清单41-17: lab tests/db.smoke.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 609,
+    "extracted_file": "src\\代码清单41-17_ lab tests_db.smoke.test.ts 全文.ts",
+    "source": "code/lab-management-system-nextjs/tests/db.smoke.test.ts"
+  },
+  {
+    "title": "代码清单41-18: saas tests/db.smoke.test.ts 全文",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 638,
+    "extracted_file": "src\\代码清单41-18_ saas tests_db.smoke.test.ts 全文.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/db.smoke.test.ts"
+  },
+  {
+    "title": "代码清单41-19: saas tests/components/home-client.test.tsx 的 3 张卡锚点段",
+    "lang": "ts",
+    "chapter_file": "chapter-041.md",
+    "line": 662,
+    "extracted_file": "src\\代码清单41-19_ saas tests_components_home-client.test.tsx 的 3 张卡锚点段.ts",
+    "source": "code/saas-identity-platform-nextjs/tests/components/home-client.test.tsx"
+  },
+  {
+    "title": "代码清单42-1: Next.js 最小 Dockerfile（参考实现，非 v1.0-001 实际文件）",
+    "lang": "dockerfile",
+    "chapter_file": "chapter-042.md",
+    "line": 90,
+    "extracted_file": "src\\代码清单42-1_ Next.js 最小 Dockerfile（参考实现，非 v1.0-001 实际文件）.dockerfile",
+    "source": null
+  },
+  {
+    "title": "代码清单42-2: Next.js 反向代理片段（参考实现，非 v1.0-001 实际文件）",
+    "lang": "nginx",
+    "chapter_file": "chapter-042.md",
+    "line": 110,
+    "extracted_file": "src\\代码清单42-2_ Next.js 反向代理片段（参考实现，非 v1.0-001 实际文件）.conf",
+    "source": null
+  }
+]

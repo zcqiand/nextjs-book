@@ -1,0 +1,9 @@
+app/
+├── layout.tsx
+├── error.tsx              # 根级别错误处理
+├── (marketing)/
+│   ├── layout.tsx
+│   └── error.tsx          # 营销模块的错误处理
+└── (shop)/
+    ├── layout.tsx
+└── error.tsx          # 商城模块的错误处理

@@ -1,0 +1,5 @@
+Route (app)                              Size     First Load JS
+├ ○ /                                    3.38 kB        72.1 kB
+├ ○ /about                               1.37 kB        68.2 kB
+├ ○ /blog                                4.12 kB        81.3 kB
+└ ○ /contact                             2.01 kB        69.3 kB

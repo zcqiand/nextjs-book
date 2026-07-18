@@ -1,0 +1,19 @@
+app/
+├── global-error.tsx          # 全局错误处理
+├── error.tsx                # 全局组件错误处理
+├── not-found.tsx            # 全局 404 页面
+├── loading.tsx              # 全局加载状态
+├── (main)/
+│   ├── layout.tsx
+│   ├── error.tsx            # 主应用错误处理
+│   ├── loading.tsx          # 主应用加载状态
+│   ├── page.tsx             # 首页
+│   └── blog/
+│       ├── page.tsx
+│       ├── loading.tsx      # 博客列表加载状态
+│       └── [slug]/
+│           ├── page.tsx
+│           └── not-found.tsx # 博客文章 404
+└── (admin)/
+    ├── layout.tsx
+└── error.tsx            # 管理后台错误处理

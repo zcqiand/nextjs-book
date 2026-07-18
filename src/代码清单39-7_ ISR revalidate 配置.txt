@@ -1,0 +1,4 @@
+// Next.js 15: 缓存默认为 no-store
+// 显式指定缓存策略
+export const dynamic = 'force-dynamic'; // 不缓存
+export const revalidate = 0; // 每次重新验证

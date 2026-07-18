@@ -1,0 +1,9 @@
+const [kw, setKw] = useState("");
+...
+<Input placeholder="搜索名称/型号/资产号" value={kw} onChange={(e) => setKw(e.target.value)} className="max-w-xs" />
+...
+<tbody>
+  {rows.filter((e) => !kw || e.name.includes(kw) || (e.model ?? "").includes(kw) || (e.assetNo ?? "").includes(kw)).map((e) => (
+    ...
+  ))}
+</tbody>
