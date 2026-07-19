@@ -1,0 +1,6 @@
+app/
+├── blog/
+│   ├── page.tsx              # 博客列表
+│   └── [slug]/
+│       └── page.tsx          # 文章详情
+└── not-found.tsx             # 全局 404 处理

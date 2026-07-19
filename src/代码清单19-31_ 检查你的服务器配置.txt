@@ -1,0 +1,4 @@
+// 检查你的服务器配置
+// Nginx 需要添加：
+// http2 on;
+// listen 443 ssl http2;

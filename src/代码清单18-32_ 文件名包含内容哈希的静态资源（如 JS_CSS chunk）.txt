@@ -1,0 +1,8 @@
+# 文件名包含内容哈希的静态资源（如 JS/CSS chunk）
+# Cache-Control: public, max-age=31536000, immutable
+
+# HTML 页面
+# Cache-Control: no-cache  # 确保更新能立即生效
+
+# API 路由响应
+# 默认不缓存，根据代码逻辑决定

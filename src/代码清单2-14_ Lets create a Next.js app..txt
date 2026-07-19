@@ -1,0 +1,3 @@
+Let's create a Next.js app.
+
+? What is your project named? · my-blog

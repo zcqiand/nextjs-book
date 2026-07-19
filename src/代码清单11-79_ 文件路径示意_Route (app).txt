@@ -1,0 +1,5 @@
+Route (app)                              Size     First Load JS
+├ ○ /blog                                3.38 kB        72.1 kB
+├ ○ /blog/nextjs-15                     4.12 kB        81.3 kB
+├ ○ /blog/app-router                    4.12 kB        81.3 kB
+├ ○ /blog/remote-work                   4.12 kB        81.3 kB

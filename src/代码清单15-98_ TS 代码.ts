@@ -1,0 +1,1 @@
+Error: Type 'Promise<{ slug: string }>' is not assignable to type '{ slug: string }'

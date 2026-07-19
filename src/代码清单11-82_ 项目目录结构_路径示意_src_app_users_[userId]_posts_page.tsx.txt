@@ -1,0 +1,1 @@
+src/app/users/[userId]/posts/page.tsx

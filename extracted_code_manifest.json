@@ -1,5 +1,13 @@
 [
   {
+    "title": "代码清单1-10: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 78,
+    "extracted_file": "src\\代码清单1-10_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
     "title": "代码清单1-1: Server Component 示例",
     "lang": "tsx",
     "chapter_file": "chapter-001.md",
@@ -56,11 +64,27 @@
     "source": null
   },
   {
+    "title": "代码清单1-11: 检查 Node.js 版本",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 364,
+    "extracted_file": "src\\代码清单1-11_ 检查 Node.js 版本.sh",
+    "source": null
+  },
+  {
     "title": "代码清单1-8: 检查 Node.js 版本",
     "lang": "bash",
     "chapter_file": "chapter-001.md",
     "line": 377,
     "extracted_file": "src\\代码清单1-8_ 检查 Node.js 版本.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-12: 检查包管理工具",
+    "lang": "text",
+    "chapter_file": "chapter-001.md",
+    "line": 392,
+    "extracted_file": "src\\代码清单1-12_ 检查包管理工具.txt",
     "source": null
   },
   {
@@ -72,11 +96,91 @@
     "source": null
   },
   {
+    "title": "代码清单1-13: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 430,
+    "extracted_file": "src\\代码清单1-13_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-14: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 453,
+    "extracted_file": "src\\代码清单1-14_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单1-15: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-001.md",
+    "line": 463,
+    "extracted_file": "src\\代码清单1-15_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
     "title": "代码清单2-1: JSON 配置",
     "lang": "typescript",
     "chapter_file": "chapter-002.md",
     "line": 82,
     "extracted_file": "src\\代码清单2-1_ JSON 配置.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单2-13: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 159,
+    "extracted_file": "src\\代码清单2-13_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-14: Lets create a Next.js app.",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 166,
+    "extracted_file": "src\\代码清单2-14_ Lets create a Next.js app..txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-15: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 175,
+    "extracted_file": "src\\代码清单2-15_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-16: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 182,
+    "extracted_file": "src\\代码清单2-16_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-17: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 189,
+    "extracted_file": "src\\代码清单2-17_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-18: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 196,
+    "extracted_file": "src\\代码清单2-18_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-19: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 203,
+    "extracted_file": "src\\代码清单2-19_ 代码示例.txt",
     "source": null
   },
   {
@@ -88,11 +192,35 @@
     "source": null
   },
   {
+    "title": "代码清单2-20: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 217,
+    "extracted_file": "src\\代码清单2-20_ 代码示例.txt",
+    "source": null
+  },
+  {
     "title": "代码清单2-8: 创建 Next.js 项目",
     "lang": "bash",
     "chapter_file": "chapter-002.md",
     "line": 230,
     "extracted_file": "src\\代码清单2-8_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-21: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 291,
+    "extracted_file": "src\\代码清单2-21_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-22: ▲ Next.js 15.0.0",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 299,
+    "extracted_file": "src\\代码清单2-22_ ▲ Next.js 15.0.0.txt",
     "source": null
   },
   {
@@ -112,6 +240,30 @@
     "source": null
   },
   {
+    "title": "代码清单2-23: 配置 npm 镜像源",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 398,
+    "extracted_file": "src\\代码清单2-23_ 配置 npm 镜像源.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-24: cd learning-nextjs",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 409,
+    "extracted_file": "src\\代码清单2-24_ cd learning-nextjs.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-25: code src/app/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 417,
+    "extracted_file": "src\\代码清单2-25_ code src_app_page.tsx.txt",
+    "source": null
+  },
+  {
     "title": "代码清单2-11: 图片优化组件",
     "lang": "tsx",
     "chapter_file": "chapter-002.md",
@@ -120,11 +272,67 @@
     "source": null
   },
   {
+    "title": "代码清单2-26: mkdir -p src/app/about",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 453,
+    "extracted_file": "src\\代码清单2-26_ mkdir -p src_app_about.sh",
+    "source": null
+  },
+  {
     "title": "代码清单2-12: AboutPage 函数",
     "lang": "tsx",
     "chapter_file": "chapter-002.md",
     "line": 460,
     "extracted_file": "src\\代码清单2-12_ AboutPage 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单2-27: 配置 npm 镜像源",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 481,
+    "extracted_file": "src\\代码清单2-27_ 配置 npm 镜像源.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-28: npm install next react react-dom",
+    "lang": "text",
+    "chapter_file": "chapter-002.md",
+    "line": 489,
+    "extracted_file": "src\\代码清单2-28_ npm install next react react-dom.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单2-29: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 499,
+    "extracted_file": "src\\代码清单2-29_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-30: npx tsc --init",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 510,
+    "extracted_file": "src\\代码清单2-30_ npx tsc --init.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-31: 检查 Node.js 版本",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 519,
+    "extracted_file": "src\\代码清单2-31_ 检查 Node.js 版本.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单2-32: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-002.md",
+    "line": 526,
+    "extracted_file": "src\\代码清单2-32_ 创建 Next.js 项目.sh",
     "source": null
   },
   {
@@ -192,6 +400,30 @@
     "source": null
   },
   {
+    "title": "代码清单3-13: code src/app/layout.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-003.md",
+    "line": 579,
+    "extracted_file": "src\\代码清单3-13_ code src_app_layout.tsx.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单3-14: code src/app/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-003.md",
+    "line": 598,
+    "extracted_file": "src\\代码清单3-14_ code src_app_page.tsx.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单3-15: mkdir -p src/app/about",
+    "lang": "bash",
+    "chapter_file": "chapter-003.md",
+    "line": 609,
+    "extracted_file": "src\\代码清单3-15_ mkdir -p src_app_about.sh",
+    "source": null
+  },
+  {
     "title": "代码清单3-9: src/app/about/page.tsx",
     "lang": "tsx",
     "chapter_file": "chapter-003.md",
@@ -205,6 +437,14 @@
     "chapter_file": "chapter-003.md",
     "line": 640,
     "extracted_file": "src\\代码清单3-10_ src_app_about_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单3-16: mkdir -p src/app/blog/[slug]",
+    "lang": "bash",
+    "chapter_file": "chapter-003.md",
+    "line": 664,
+    "extracted_file": "src\\代码清单3-16_ mkdir -p src_app_blog_[slug].sh",
     "source": null
   },
   {
@@ -336,6 +576,14 @@
     "source": null
   },
   {
+    "title": "代码清单5-15: mkdir -p src/app/about",
+    "lang": "bash",
+    "chapter_file": "chapter-005.md",
+    "line": 148,
+    "extracted_file": "src\\代码清单5-15_ mkdir -p src_app_about.sh",
+    "source": null
+  },
+  {
     "title": "代码清单5-4: src/app/about/page.tsx",
     "lang": "tsx",
     "chapter_file": "chapter-005.md",
@@ -376,6 +624,22 @@
     "source": null
   },
   {
+    "title": "代码清单5-16: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-005.md",
+    "line": 482,
+    "extracted_file": "src\\代码清单5-16_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单5-17: mkdir -p src/app/contact",
+    "lang": "bash",
+    "chapter_file": "chapter-005.md",
+    "line": 495,
+    "extracted_file": "src\\代码清单5-17_ mkdir -p src_app_contact.sh",
+    "source": null
+  },
+  {
     "title": "代码清单5-9: src/app/contact/page.tsx",
     "lang": "tsx",
     "chapter_file": "chapter-005.md",
@@ -389,6 +653,14 @@
     "chapter_file": "chapter-005.md",
     "line": 589,
     "extracted_file": "src\\代码清单5-10_ src_app_contact_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单5-18: mkdir -p src/app/contact/team",
+    "lang": "bash",
+    "chapter_file": "chapter-005.md",
+    "line": 635,
+    "extracted_file": "src\\代码清单5-18_ mkdir -p src_app_contact_team.sh",
     "source": null
   },
   {
@@ -925,6 +1197,14 @@
     "chapter_file": "chapter-007.md",
     "line": 1027,
     "extracted_file": "src\\代码清单7-30_ API 路由 GET 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单7-31: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-007.md",
+    "line": 1104,
+    "extracted_file": "src\\代码清单7-31_ 启动开发服务器.sh",
     "source": null
   },
   {
@@ -1704,6 +1984,14 @@
     "source": null
   },
   {
+    "title": "代码清单11-76: 项目目录结构/路径示意:app/blog/[slug]/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 76,
+    "extracted_file": "src\\代码清单11-76_ 项目目录结构_路径示意_app_blog_[slug]_page.tsx.txt",
+    "source": null
+  },
+  {
     "title": "代码清单11-58: Next.js 15 中的写法（使用 await）",
     "lang": "tsx",
     "chapter_file": "chapter-011.md",
@@ -1728,11 +2016,27 @@
     "source": null
   },
   {
+    "title": "代码清单11-77: 项目目录结构/路径示意:app/users/[id]/posts/[postId]/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 153,
+    "extracted_file": "src\\代码清单11-77_ 项目目录结构_路径示意_app_users_[id]_posts_[postId]_page.tsx.txt",
+    "source": null
+  },
+  {
     "title": "代码清单11-61: UserPostPage 函数",
     "lang": "tsx",
     "chapter_file": "chapter-011.md",
     "line": 157,
     "extracted_file": "src\\代码清单11-61_ UserPostPage 函数.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-78: mkdir -p src/app/blog/[slug]",
+    "lang": "bash",
+    "chapter_file": "chapter-011.md",
+    "line": 191,
+    "extracted_file": "src\\代码清单11-78_ mkdir -p src_app_blog_[slug].sh",
     "source": null
   },
   {
@@ -1792,6 +2096,22 @@
     "source": null
   },
   {
+    "title": "代码清单11-79: 文件路径示意:Route (app)",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 563,
+    "extracted_file": "src\\代码清单11-79_ 文件路径示意_Route (app).txt",
+    "source": null
+  },
+  {
+    "title": "代码清单11-80: 项目目录结构/路径示意:app/[[...slug]]/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 583,
+    "extracted_file": "src\\代码清单11-80_ 项目目录结构_路径示意_app_[[...slug]]_page.tsx.txt",
+    "source": null
+  },
+  {
     "title": "代码清单11-69: app/[[...slug]]/page.tsx",
     "lang": "tsx",
     "chapter_file": "chapter-011.md",
@@ -1800,11 +2120,27 @@
     "source": null
   },
   {
+    "title": "代码清单11-81: 项目目录结构/路径示意:app/docs/[...path]/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 619,
+    "extracted_file": "src\\代码清单11-81_ 项目目录结构_路径示意_app_docs_[...path]_page.tsx.txt",
+    "source": null
+  },
+  {
     "title": "代码清单11-70: app/docs/[...path]/page.tsx",
     "lang": "tsx",
     "chapter_file": "chapter-011.md",
     "line": 631,
     "extracted_file": "src\\代码清单11-70_ app_docs_[...path]_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单11-82: 项目目录结构/路径示意:src/app/users/[userId]/posts/page.tsx",
+    "lang": "text",
+    "chapter_file": "chapter-011.md",
+    "line": 692,
+    "extracted_file": "src\\代码清单11-82_ 项目目录结构_路径示意_src_app_users_[userId]_posts_page.tsx.txt",
     "source": null
   },
   {
@@ -1832,6 +2168,14 @@
     "source": null
   },
   {
+    "title": "代码清单11-83: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-011.md",
+    "line": 891,
+    "extracted_file": "src\\代码清单11-83_ 构建项目.sh",
+    "source": null
+  },
+  {
     "title": "代码清单11-74: 文件路径示意:Route (app)                             ",
     "lang": "text",
     "chapter_file": "chapter-011.md",
@@ -1845,6 +2189,14 @@
     "chapter_file": "chapter-011.md",
     "line": 960,
     "extracted_file": "src\\代码清单11-75_ 对于 _users_1_posts_2.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-48: 项目目录结构/路径示意:app/(marketing)/about/page.tsx     → /ab",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 18,
+    "extracted_file": "src\\代码清单12-48_ 项目目录结构_路径示意_app_(marketing)_about_page.tsx     → _ab.txt",
     "source": null
   },
   {
@@ -1909,6 +2261,14 @@
     "chapter_file": "chapter-012.md",
     "line": 276,
     "extracted_file": "src\\代码清单12-38_ notFound 处理.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单12-49: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-012.md",
+    "line": 335,
+    "extracted_file": "src\\代码清单12-49_ 项目目录结构_路径示意_app_.txt",
     "source": null
   },
   {
@@ -1981,6 +2341,14 @@
     "chapter_file": "chapter-012.md",
     "line": 624,
     "extracted_file": "src\\代码清单12-47_ app_(dashboard)_layout.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单13-52: 项目目录结构/路径示意:app/",
+    "lang": "text",
+    "chapter_file": "chapter-013.md",
+    "line": 53,
+    "extracted_file": "src\\代码清单13-52_ 项目目录结构_路径示意_app_.txt",
     "source": null
   },
   {
@@ -2133,6 +2501,14 @@
     "chapter_file": "chapter-014.md",
     "line": 178,
     "extracted_file": "src\\代码清单14-4_ Client Component 标记.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单14-16: 这个表单在 JavaScript 加载前和加载后都能工作",
+    "lang": "typescript",
+    "chapter_file": "chapter-014.md",
+    "line": 259,
+    "extracted_file": "src\\代码清单14-16_ 这个表单在 JavaScript 加载前和加载后都能工作.ts",
     "source": null
   },
   {
@@ -2312,6 +2688,38 @@
     "source": null
   },
   {
+    "title": "代码清单15-89: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 431,
+    "extracted_file": "src\\代码清单15-89_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-90: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 441,
+    "extracted_file": "src\\代码清单15-90_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-91: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 453,
+    "extracted_file": "src\\代码清单15-91_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-92: 代码示例",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 463,
+    "extracted_file": "src\\代码清单15-92_ 代码示例.ts",
+    "source": null
+  },
+  {
     "title": "代码清单15-80: 正确：在调用前捕获所有需要的数据",
     "lang": "typescript",
     "chapter_file": "chapter-015.md",
@@ -2325,6 +2733,22 @@
     "chapter_file": "chapter-015.md",
     "line": 497,
     "extracted_file": "src\\代码清单15-81_ 代码示例.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-93: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 538,
+    "extracted_file": "src\\代码清单15-93_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单15-94: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 551,
+    "extracted_file": "src\\代码清单15-94_ 启动开发服务器.sh",
     "source": null
   },
   {
@@ -2360,6 +2784,14 @@
     "source": null
   },
   {
+    "title": "代码清单15-95: git commit -am 迁移到 Next.js 15 前的备份",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 651,
+    "extracted_file": "src\\代码清单15-95_ git commit -am 迁移到 Next.js 15 前的备份.sh",
+    "source": null
+  },
+  {
     "title": "代码清单15-86: JSON 配置",
     "lang": "typescript",
     "chapter_file": "chapter-015.md",
@@ -2384,6 +2816,62 @@
     "source": null
   },
   {
+    "title": "代码清单15-96: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 708,
+    "extracted_file": "src\\代码清单15-96_ 构建项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单15-97: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-015.md",
+    "line": 717,
+    "extracted_file": "src\\代码清单15-97_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单15-98: TS 代码",
+    "lang": "typescript",
+    "chapter_file": "chapter-015.md",
+    "line": 736,
+    "extracted_file": "src\\代码清单15-98_ TS 代码.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单15-99: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-015.md",
+    "line": 745,
+    "extracted_file": "src\\代码清单15-99_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单15-100: Error: Cannot find module next/config",
+    "lang": "text",
+    "chapter_file": "chapter-015.md",
+    "line": 758,
+    "extracted_file": "src\\代码清单15-100_ Error_ Cannot find module next_config.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单16-12: 创建 Next.js 项目",
+    "lang": "bash",
+    "chapter_file": "chapter-016.md",
+    "line": 15,
+    "extracted_file": "src\\代码清单16-12_ 创建 Next.js 项目.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单16-13: 启动开发服务器",
+    "lang": "bash",
+    "chapter_file": "chapter-016.md",
+    "line": 36,
+    "extracted_file": "src\\代码清单16-13_ 启动开发服务器.sh",
+    "source": null
+  },
+  {
     "title": "代码清单16-1: 项目目录结构/路径示意:my-blog/",
     "lang": "text",
     "chapter_file": "chapter-016.md",
@@ -2405,6 +2893,14 @@
     "chapter_file": "chapter-016.md",
     "line": 120,
     "extracted_file": "src\\代码清单16-4_ prisma_schema.prisma.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单16-14: 生成 Prisma Client",
+    "lang": "bash",
+    "chapter_file": "chapter-016.md",
+    "line": 184,
+    "extracted_file": "src\\代码清单16-14_ 生成 Prisma Client.sh",
     "source": null
   },
   {
@@ -2453,6 +2949,30 @@
     "chapter_file": "chapter-016.md",
     "line": 449,
     "extracted_file": "src\\代码清单16-11_ 静态生成 generateStaticParams.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单17-18: npm install next-auth@beta",
+    "lang": "text",
+    "chapter_file": "chapter-017.md",
+    "line": 34,
+    "extracted_file": "src\\代码清单17-18_ npm install next-auth@beta.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单17-19: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-017.md",
+    "line": 41,
+    "extracted_file": "src\\代码清单17-19_ 代码示例.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单17-20: openssl rand -base64 32",
+    "lang": "text",
+    "chapter_file": "chapter-017.md",
+    "line": 54,
+    "extracted_file": "src\\代码清单17-20_ openssl rand -base64 32.txt",
     "source": null
   },
   {
@@ -2584,6 +3104,22 @@
     "source": null
   },
   {
+    "title": "代码清单18-26: openssl rand -base64 32",
+    "lang": "text",
+    "chapter_file": "chapter-018.md",
+    "line": 128,
+    "extracted_file": "src\\代码清单18-26_ openssl rand -base64 32.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单18-27: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-018.md",
+    "line": 151,
+    "extracted_file": "src\\代码清单18-27_ 代码示例.txt",
+    "source": null
+  },
+  {
     "title": "代码清单18-5: next.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-018.md",
@@ -2632,6 +3168,14 @@
     "source": null
   },
   {
+    "title": "代码清单18-28: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 415,
+    "extracted_file": "src\\代码清单18-28_ 构建项目.sh",
+    "source": null
+  },
+  {
     "title": "代码清单18-8: next.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-018.md",
@@ -2656,6 +3200,22 @@
     "source": null
   },
   {
+    "title": "代码清单18-29: 生成迁移文件",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 495,
+    "extracted_file": "src\\代码清单18-29_ 生成迁移文件.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单18-30: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-018.md",
+    "line": 510,
+    "extracted_file": "src\\代码清单18-30_ 代码示例.txt",
+    "source": null
+  },
+  {
     "title": "代码清单18-13: 构建项目",
     "lang": "bash",
     "chapter_file": "chapter-018.md",
@@ -2672,6 +3232,14 @@
     "source": null
   },
   {
+    "title": "代码清单18-31: npm install @sentry/nextjs",
+    "lang": "bash",
+    "chapter_file": "chapter-018.md",
+    "line": 644,
+    "extracted_file": "src\\代码清单18-31_ npm install @sentry_nextjs.sh",
+    "source": null
+  },
+  {
     "title": "代码清单18-16: sentry.client.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-018.md",
@@ -2685,6 +3253,14 @@
     "chapter_file": "chapter-018.md",
     "line": 685,
     "extracted_file": "src\\代码清单18-17_ src_lib_metrics.ts.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单18-32: 文件名包含内容哈希的静态资源（如 JS/CSS chunk）",
+    "lang": "text",
+    "chapter_file": "chapter-018.md",
+    "line": 739,
+    "extracted_file": "src\\代码清单18-32_ 文件名包含内容哈希的静态资源（如 JS_CSS chunk）.txt",
     "source": null
   },
   {
@@ -2712,11 +3288,35 @@
     "source": null
   },
   {
+    "title": "代码清单19-27: 使用 Chrome CLI",
+    "lang": "bash",
+    "chapter_file": "chapter-019.md",
+    "line": 25,
+    "extracted_file": "src\\代码清单19-27_ 使用 Chrome CLI.sh",
+    "source": null
+  },
+  {
+    "title": "代码清单19-28: npm install @next/bundle-analyzer -D",
+    "lang": "text",
+    "chapter_file": "chapter-019.md",
+    "line": 51,
+    "extracted_file": "src\\代码清单19-28_ npm install @next_bundle-analyzer -D.txt",
+    "source": null
+  },
+  {
     "title": "代码清单19-3: next.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-019.md",
     "line": 56,
     "extracted_file": "src\\代码清单19-3_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-29: 构建项目",
+    "lang": "bash",
+    "chapter_file": "chapter-019.md",
+    "line": 72,
+    "extracted_file": "src\\代码清单19-29_ 构建项目.sh",
     "source": null
   },
   {
@@ -2757,6 +3357,14 @@
     "chapter_file": "chapter-019.md",
     "line": 164,
     "extracted_file": "src\\代码清单19-9_ 始终为图片指定宽高.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单19-30: 不好：广告或动态内容会导致布局偏移",
+    "lang": "typescript",
+    "chapter_file": "chapter-019.md",
+    "line": 178,
+    "extracted_file": "src\\代码清单19-30_ 不好：广告或动态内容会导致布局偏移.ts",
     "source": null
   },
   {
@@ -2861,6 +3469,14 @@
     "chapter_file": "chapter-019.md",
     "line": 451,
     "extracted_file": "src\\代码清单19-23_ app_blog_page.tsx.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单19-31: 检查你的服务器配置",
+    "lang": "text",
+    "chapter_file": "chapter-019.md",
+    "line": 486,
+    "extracted_file": "src\\代码清单19-31_ 检查你的服务器配置.txt",
     "source": null
   },
   {
@@ -3392,6 +4008,14 @@
     "source": null
   },
   {
+    "title": "代码清单23-19: npm install -D @playwright/test",
+    "lang": "bash",
+    "chapter_file": "chapter-023.md",
+    "line": 457,
+    "extracted_file": "src\\代码清单23-19_ npm install -D @playwright_test.sh",
+    "source": null
+  },
+  {
     "title": "代码清单23-10: playwright.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-023.md",
@@ -3429,6 +4053,14 @@
     "chapter_file": "chapter-023.md",
     "line": 609,
     "extracted_file": "src\\代码清单23-14_ jest.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单23-20: npm test -- --coverage",
+    "lang": "text",
+    "chapter_file": "chapter-023.md",
+    "line": 630,
+    "extracted_file": "src\\代码清单23-20_ npm test -- --coverage.txt",
     "source": null
   },
   {
@@ -3824,11 +4456,35 @@
     "source": null
   },
   {
+    "title": "代码清单26-59: 错误：记录敏感信息",
+    "lang": "typescript",
+    "chapter_file": "chapter-026.md",
+    "line": 392,
+    "extracted_file": "src\\代码清单26-59_ 错误：记录敏感信息.ts",
+    "source": null
+  },
+  {
     "title": "代码清单26-58: next.config.ts",
     "lang": "typescript",
     "chapter_file": "chapter-026.md",
     "line": 405,
     "extracted_file": "src\\代码清单26-58_ next.config.ts.ts",
+    "source": null
+  },
+  {
+    "title": "代码清单27-18: npm install openai @ai-sdk/openai",
+    "lang": "text",
+    "chapter_file": "chapter-027.md",
+    "line": 46,
+    "extracted_file": "src\\代码清单27-18_ npm install openai @ai-sdk_openai.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单27-19: 代码示例",
+    "lang": "text",
+    "chapter_file": "chapter-027.md",
+    "line": 53,
+    "extracted_file": "src\\代码清单27-19_ 代码示例.txt",
     "source": null
   },
   {
@@ -3853,6 +4509,14 @@
     "chapter_file": "chapter-027.md",
     "line": 111,
     "extracted_file": "src\\代码清单27-5_ API 路由 POST 处理器.tsx",
+    "source": null
+  },
+  {
+    "title": "代码清单27-20: npm install ai @ai-sdk/openai",
+    "lang": "text",
+    "chapter_file": "chapter-027.md",
+    "line": 144,
+    "extracted_file": "src\\代码清单27-20_ npm install ai @ai-sdk_openai.txt",
     "source": null
   },
   {

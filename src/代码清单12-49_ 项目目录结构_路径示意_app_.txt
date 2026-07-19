@@ -1,0 +1,6 @@
+app/
+├── @sidebar/
+│   └── page.tsx          # 侧边栏内容
+├── @main/
+│   └── page.tsx          # 主内容区
+└── layout.tsx            # 同时渲染 @sidebar 和 @main
