@@ -1,0 +1,12 @@
+Route (app)                              Size     First Load JS
+├ ○ /tasks                               3.38 kB        72.1 kB
+├ ○ /tasks/101                          4.12 kB        81.3 kB
+├ ○ /tasks/102                          4.12 kB        81.3 kB
+├ ○ /tasks/103                          4.12 kB        81.3 kB
+├ ○ /boards/design-refresh              2.85 kB        68.2 kB
+├ ○ /boards/design-refresh/tasks        2.91 kB        68.5 kB
+├ ○ /boards/design-refresh/tasks/101    3.24 kB        71.2 kB
+├ ○ /boards/design-refresh/tasks/102    3.24 kB        71.2 kB
+├ ○ /boards/mobile-app                  2.85 kB        68.2 kB
+├ ○ /boards/mobile-app/tasks            2.91 kB        68.5 kB
+├ ○ /boards/mobile-app/tasks/103        3.24 kB        71.2 kB

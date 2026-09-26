@@ -28,28 +28,29 @@
 
 ## 代码清单说明
 
-本目录包含从书籍章节中提取的 **715** 个代码片段文件,涵盖 未知 +  全栈开发核心知识点。
+本目录包含从书籍章节中提取的 **404** 个代码片段文件,涵盖 未知 +  全栈开发核心知识点。
 
 ### 📊 代码统计
 
-- **总块数**: 715 个
-- **涉及章节**: 第 1-42 章（卷一至卷四）
+- **总块数**: 404 个
+- **涉及章节**: 第 1-41 章（卷一至卷四）
 
 ### 📋 按编程语言分类
 
 | 语言 | 块数 | 说明 |
 |------|------|------|
-| tsx | 285 |  |
-| typescript | 255 | 类型定义 |
-| text | 76 | 输出/目录树/示意 |
-| bash | 48 | 命令/脚本 |
-| ts | 37 | 类型定义 |
-| javascript | 7 | JS 示例 |
-| dockerfile | 2 | Docker |
-| nginx | 2 | Nginx 配置 |
-| yaml | 1 | CI/配置 |
-| md | 1 |  |
-| json | 1 | 配置 |
+| tsx | 244 |  |
+| bash | 56 | 命令/脚本 |
+| text | 38 | 输出/目录树/示意 |
+| typescript | 36 | 类型定义 |
+| ts | 12 | 类型定义 |
+| css | 6 | 样式 |
+| json | 4 | 配置 |
+| js | 2 |  |
+| html | 2 | HTML |
+| md | 2 |  |
+| javascript | 1 | JS 示例 |
+| markdown | 1 |  |
 
 ### 📂 章节覆盖
 
@@ -64,7 +65,8 @@
 
 | 案例 | 技术栈 | 仓库地址 |
 |------|--------|---------|
-（未找到 case-import-registry.json）
+| lab-management-system-nextjs | next 15.x (App Router) / react 19.x / typescript 5.6.x strict / drizzle-orm 0.36.x (postgres-js / PostgreSQL) / orval 契约先行生成 API 客户端 / zustand 5.x / tailwindcss 4.x / vitest 2.x / node 20 LTS | [lab-management-system-nextjs](https://github.com/zcqiand/lab-management-system-nextjs) @ v0.3.86-20260926 |
+| saas-identity-platform-nextjs | next 15.x (App Router) / react 19.x / typescript 5.6.x strict / drizzle-orm 0.36.x (pg-core / PostgreSQL) / zustand 5.x / tailwindcss 4.x / vitest 2.x / node 20 LTS | [saas-identity-platform-nextjs](https://github.com/zcqiand/saas-identity-platform-nextjs) @ v0.7.69-20260926 |
 
 本目录（nextjs-book）是**章节代码摘录的索引**；上面的案例仓才是**完整可跑工程**。读者想看真实实现请去案例仓。
 
@@ -90,6 +92,6 @@ python .claude/scripts/extract_code.py output/xr-know-004
 
 ---
 
-**最后更新**: 2026年07月19日
+**最后更新**: 2026年09月27日
 **书籍版本**: 未知 + 
 **代码来源**: [../../output/xr-know-004/chapters](../../output/xr-know-004/chapters)

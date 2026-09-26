@@ -1,0 +1,14 @@
+src/app/
+├── layout.tsx                # 根布局（全局壳）
+├── (marketing)/
+│   ├── layout.tsx            # 落地页组布局
+│   └── page.tsx              # 落地页（首页）
+└── (app)/
+    ├── layout.tsx            # 工作台布局
+    ├── boards/
+    │   ├── page.tsx          # 看板列表
+    │   └── [boardId]/
+    │       ├── layout.tsx    # 看板布局
+    │       └── page.tsx      # 看板详情
+    └── tasks/
+        └── page.tsx          # 任务列表

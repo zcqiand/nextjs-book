@@ -1,0 +1,36 @@
+{
+  "name": "saas-identity-platform-nextjs",
+  "version": "0.2.0",
+  "description": "SaaS Identity Platform — Next.js 15 + App Router + TS. v0.2.0: 自己 orval 读 shared/openapi.yaml，不再 file: 依赖 shared 仓。",
+  "scripts": {
+    "gen:shared": "bash scripts/gen-shared.sh",
+    "prebuild": "npm run gen:shared",
+    "dev": "next dev -p 5101",
+    "build": "next build",
+    "start": "next start -p 5101",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.0",
+    "axios": "^1.7.7",
+    "drizzle-orm": "^0.36.4",
+    "jose": "^5.10.0",
+    "next": "^15.1.0",
+    "node-pg-migrate": "^7.6.1",
+    "postgres": "^3.4.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    // ………（中略：eslint、testing-library、tailwind、vitest 等配套依赖）…………
+    "drizzle-kit": "^0.28.1",
+    // ………（中略）…………
+    "orval": "^7.5.0",
+    // ………（中略）…………
+    "server-only": "^0.0.1",
+    // ………（中略至文件尾）…………
+  }
+}

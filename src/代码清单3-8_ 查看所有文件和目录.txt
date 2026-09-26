@@ -1,4 +1,4 @@
-cd learning-nextjs
+cd taskflow-board
 # 查看所有文件和目录
 ls -la
 # 查看 src/app 目录内容

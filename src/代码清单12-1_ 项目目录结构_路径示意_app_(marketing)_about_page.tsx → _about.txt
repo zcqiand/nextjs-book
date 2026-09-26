@@ -1,0 +1,4 @@
+app/(marketing)/about/page.tsx     → /about
+app/(marketing)/pricing/page.tsx   → /pricing
+app/(app)/boards/page.tsx          → /boards
+app/(app)/tasks/page.tsx           → /tasks

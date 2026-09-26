@@ -1,0 +1,18 @@
+  "scripts": {
+    "dev": "next dev -p 5201",
+    "build": "next build",
+    "start": "next start -p 5201",
+    "gate": "cd ../.. && python scripts/gate.py -p lab-management-system-nextjs",
+    "test": "vitest run",
+    "trace": "TRACE_MAP=1 vitest run",
+    "lint": "eslint src tests",
+    "format": "prettier --write src tests",
+    "typecheck": "tsc --noEmit",
+    "gen:shared": "tsx scripts/gen-shared.ts",
+    "prebuild": "npm run gen:shared",
+    "borrow:pg": "node scripts/borrow-pg.mjs",
+    "borrow:pg:sibling": "node scripts/borrow-from-nextjs-pg.mjs",
+    "pull:schema": "bash scripts/pull-schema.sh",
+    "fix:schema": "node scripts/fix-pulled-schema.mjs",
+    "seed:db": "tsx --env-file-if-exists=.env scripts/seed-db.ts"
+  }

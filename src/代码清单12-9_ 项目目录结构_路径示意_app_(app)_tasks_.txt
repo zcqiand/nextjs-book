@@ -1,0 +1,7 @@
+app/
+└── (app)/
+    └── tasks/
+        ├── page.tsx            # 任务清单 → /tasks
+        ├── layout.tsx          # 任务区域的共享布局
+        └── [status]/
+            └── page.tsx        # 按状态筛选 → /tasks/:status

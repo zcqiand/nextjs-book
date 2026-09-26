@@ -1,0 +1,1 @@
+<div className="w-[240px] bg-[#1da1f2]">固定宽度侧栏</div>

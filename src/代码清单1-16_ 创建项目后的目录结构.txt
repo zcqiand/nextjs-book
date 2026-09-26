@@ -1,0 +1,11 @@
+nextjs-test/
+├── src/
+│   └── app/
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── public/
+├── next.config.ts
+├── package.json
+├── tsconfig.json
+└── ...

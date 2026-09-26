@@ -1,0 +1,1 @@
+node --version  # 确保是 20.x 或更高

@@ -1,4 +1,4 @@
-// app/product/template.tsx
+// src/app/product/template.tsx
 'use client';
 
 import { useEffect } from 'react';

@@ -1,0 +1,1 @@
+npx create-next-app@latest nextjs-test --typescript --tailwind --eslint --app --src-dir --import-alias "@/*"

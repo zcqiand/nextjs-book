@@ -1,0 +1,11 @@
+src/
+├── app/
+│   ├── (app)/
+│   │   └── tasks/
+│   │       └── [taskId]/
+│   │           ├── error.tsx       # 段级边界：接住任务详情页的运行时错误
+│   │           └── page.tsx        # 详情页：消费 fault 参数，找不到任务时触发 notFound()
+│   ├── global-error.tsx        # 根级边界：接住根布局级崩溃，替换整个文档
+│   └── layout.tsx              # 根布局：已存在，第 4 步临时注入改的就是它
+└── lib/
+    └── tasks.ts                # 示意数据层：内存数组 + 故障注入参数

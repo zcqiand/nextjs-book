@@ -1,0 +1,7 @@
+## Decision
+
+选项 2。`saas-identity-platform-nextjs` 扩展为：
+
+- **Frontend**（已有）：`app/<route>/page.tsx` + shadcn-ui + MSW mock（dev/test）
+- **Backend**（新增）：`app/api/v1/<route>/route.ts` Route Handler，对应 shared/openapi.yaml 全部 endpoints（首版 3 个 anchor：`auth/login`、`me`、`tenants/:id/users`）
+- **DB**（已有 scaffold 但空）：`src/db/schema.ts` 改为 Postgres（`drizzle-orm/postgres-js` 驱动）。**修订（ADR-0025）**：schema 不再手写镜像 shared SQL；改为 DB-First — `scripts/pull-schema.sh` 跑 `drizzle-kit pull` 从真库反推 `src/db/schema.ts`（commit 入 git）；`drizzle.config.ts` 仅配置 `dbCredentials`；CI L4.db.drift 子门守 schema 与 DB 一致

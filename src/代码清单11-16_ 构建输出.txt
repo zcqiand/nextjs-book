@@ -1,0 +1,5 @@
+Route (app)                              Size     First Load JS
+├ ○ /tasks                               3.38 kB        72.1 kB
+├ ○ /tasks/101                          4.12 kB        81.3 kB
+├ ○ /tasks/102                          4.12 kB        81.3 kB
+├ ○ /tasks/103                          4.12 kB        81.3 kB

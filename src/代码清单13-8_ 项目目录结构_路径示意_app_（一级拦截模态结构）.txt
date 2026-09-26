@@ -1,0 +1,16 @@
+app/
+├── (app)/
+│   ├── layout.tsx              # 改造（清单 13-11）：接收 children + modal 两个槽
+│   ├── page.tsx                # 首页（第 12 章已有，本章不动）
+│   ├── boards/                 # 看板页（第 12 章已有，本章不动）
+│   │   └── ...
+│   ├── tasks/
+│   │   ├── page.tsx            # 任务列表页（清单 13-12 改造：任务卡改为 Link 软导航）
+│   │   └── [taskId]/
+│   │       └── page.tsx        # 任务详情页（第 11 章创建）：硬导航/刷新时的落点
+│   └── @modal/                 # 模态槽：@modal 不参与 URL，槽名即 layout 的 prop 名（modal）
+│       ├── default.tsx         # 兜底：内容与清单 13-5 一致（返回 null），非拦截导航时该槽渲染空
+│       └── (.)tasks/           # (.) 表示「匹配与 @modal 所在层级同级的路径段」：
+│           └── [taskId]/       #   @modal 与 tasks/ 同在 (app)/ 之下，
+│               ├── page.tsx   #   所以 (.)tasks/[taskId] 拦截的是 /tasks/[taskId]
+│               └── task-modal.tsx   #   模态本体，客户端组件（清单 13-10）

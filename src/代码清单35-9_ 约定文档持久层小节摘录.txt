@@ -1,0 +1,6 @@
+## 持久层
+
+- `src/db/schema.ts`：Drizzle schema 定义，**镜像** `saas-identity-platform-shared/sql/migrations/*.sql`（字段名/类型/索引 1:1 对齐）
+- `src/db/index.ts`：顶部 `'use server'` + `postgres(env.DATABASE_URL)` + `drizzle(client, { schema })`
+- **禁止**调 `drizzle-kit generate` 产 SQL；SSOT 在 shared
+- 迁移执行：`bash scripts/gen-shared.sh` 复制 shared SQL 到本仓 `migrations/` + `node-pg-migrate up`

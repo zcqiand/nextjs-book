@@ -1,0 +1,17 @@
+app/
+├── (app)/
+│   ├── layout.tsx            # 既有（第 13 章）：双槽布局，本章不动
+│   ├── page.tsx              # 既有：首页
+│   ├── boards/               # 既有：看板页
+│   ├── tasks/                # 既有：任务列表与详情（第 11 章）
+│   ├── @modal/               # 既有：第 13 章拦截模态槽
+│   └── feedback/             # 本章新增：反馈联系表单页，URL 为 /feedback
+│       ├── page.tsx          # 页面外壳：<Form> 绑定 Server Action（清单 21-2）
+│       └── feedback-form.tsx # 客户端表单：字段错误回显与提交态（清单 21-4）
+├── (admin)/
+│   └── dashboard/            # 既有：管理台
+├── (auth)/
+│   └── login/                # 既有：登录页
+└── actions/
+    ├── tasks.ts              # 既有：createTask 等 Server Action（第 20 章）
+    └── feedback.ts           # 本章新增：submitFeedback 与 Zod 校验（清单 21-3）

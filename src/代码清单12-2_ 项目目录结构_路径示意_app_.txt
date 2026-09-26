@@ -1,0 +1,14 @@
+app/
+├── (marketing)/
+│   ├── about/
+│   │   └── page.tsx
+│   ├── pricing/
+│   │   └── page.tsx
+│   └── layout.tsx        # 营销页面共享的布局
+├── (app)/
+│   ├── boards/
+│   │   └── page.tsx
+│   ├── tasks/
+│   │   └── page.tsx
+│   └── layout.tsx        # 工作台页面共享的布局
+└── layout.tsx            # 全局布局

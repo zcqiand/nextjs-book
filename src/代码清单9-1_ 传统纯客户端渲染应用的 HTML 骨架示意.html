@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>传统单页应用</title>
+  </head>
+  <!--
+    为什么 body 里几乎是空的：传统纯客户端渲染把「生成 HTML」这件事
+    全部推迟到浏览器下载并执行 JS 之后。服务器交付的源代码里
+    只有这一个空容器和脚本标签，看不到任何任务标题、成员姓名。
+  -->
+  <body>
+    <div id="root"></div>
+    <script src="/bundle.js"></script>
+  </body>
+</html>
