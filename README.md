@@ -1,97 +1,50 @@
-# 未知书名 - 代码清单
-
-> **本书配套代码示例库** — 从章节中提取的完整可运行代码片段索引
+# Next.js从入门到项目实践 - 代码清单
 
 ## 关于本书
 
-未知 是当下最主流的前端框架之一,本书基于 未知 +  + 现代路由 + 现代状态管理 从零基础带到独立交付企业级项目。
+《Next.js从入门到项目实践》是一本「应用驱动型」的 Next.js 全栈开发实战书，带你从敲下第一行代码走到独立交付企业级 Web 应用。全书 42 章分四卷：基础入门篇讲 App Router 架构、页面与组件、链接导航、样式系统、图片与字体优化、预渲染与水合、布局模板；路由与渲染进阶篇深入动态路由与 generateStaticParams、路由组、平行路由与中断路由、中间件、服务端与客户端组件、缓存策略、use cache 指令、重新验证机制与 Server Actions；第三卷补齐表单、Route Handlers、错误与加载边界等全栈基本功；第四卷进入双案例实战与测试收官，覆盖 SSO 登录、多租户身份、RBAC 权限矩阵、OAuth 授权码流、vitest 测试策略与全书架构复盘。
 
-本书的每一章都在前一章基础上加一层新能力,最终带你把零散的语法点串成可独立交付的项目工程。
+技术栈与版本：基于 Next.js 15.x (App Router) 与 React 19.x，TypeScript strict 模式，配套 Tailwind CSS 4、Drizzle ORM 0.36.x 连接 PostgreSQL、Zustand 5、Vitest 2，运行环境为 Node.js 20 LTS；案例篇贯穿两个真实工程——建筑工程实验室管理系统与 SaaS 多租户身份平台。
+
+目标读者：具备 HTML/CSS/JavaScript 基础、了解 React 基本概念的前端开发者。学完本书，你将能独立构建包含认证（SSO/OAuth）、数据库与多租户权限等功能的企业级全栈应用，掌握从项目初始化到生产部署的完整流程。
 
 ## 本书特点
 
-**第一,真实工程化体系。** 全书围绕一套可跑通的现代工程栈展开,不是孤立的 API 罗列,而是从构建、测试、部署到上线的完整链路。
+**第一，应用驱动型写作。** 每章都有明确的应用目标，强调「学完本章你能交付什么」，围绕真实应用场景给出完整解决方案，而非功能清单的罗列。
 
-**第二,决策框架驱动。** 每个技术选型都给「什么时候用 / 为什么」的判断标准,帮助读者在真实项目中做权衡,不是死记最佳实践。
+**第二，决策引导型内容。** 每章都设决策框架节，讲清「在什么场景下选择什么方案」——App Router 与 Pages Router 的取舍、SSR/SSG/ISR 的适用边界、服务端组件与客户端组件的划分。
 
-**第三,未知 核心能力全覆盖。** 语法、范式、核心库与生态 等关键模块都有专题讲解。
+**第三，生产级可运行代码。** 所有代码都是完整可运行的工程代码，拒绝伪代码；案例篇以两个可 clone 可运行的真实仓库贯穿，每个知识点都配有可操作的练习。
 
-**第四,反例驱动教学。** 基础部分先展示错误写法、再讲透为什么错,帮助读者建立工程直觉。
+**第四，版本新、话题全。** 基于 Next.js 15.x 与 React 19.x 编写，涵盖 App Router、Server Components、Server Actions、use cache 指令、Partial Prerendering 等新特性，并延伸到 SSO、多租户 RBAC、测试策略等工程化主题。
 
-## 谁应该读这本书
+## 案例仓库
 
-如果你有少量编程经验,希望系统掌握 未知 并最终能独立交付企业级项目,这本书适合你。你可能是：
+| 仓库名 | 说明 |
+| :--- | :--- |
+| [lab-management-system-nextjs](https://github.com/zcqiand/lab-management-system-nextjs) @ v0.3.86-20260926 | 建筑工程实验室管理系统：Next.js 15.x (App Router) + React 19.x + TypeScript 5.6.x strict + Drizzle ORM 0.36.x（postgres-js / PostgreSQL）+ Zustand 5.x + Tailwind CSS 4.x + Vitest 2.x，Node 20 LTS |
+| [saas-identity-platform-nextjs](https://github.com/zcqiand/saas-identity-platform-nextjs) @ v0.7.69-20260926 | SaaS 多租户身份平台：Next.js 15.x (App Router) + React 19.x + TypeScript 5.6.x strict + Drizzle ORM 0.36.x（pg-core / PostgreSQL）+ Zustand 5.x + Tailwind CSS 4.x + Vitest 2.x，Node 20 LTS |
 
-- 在互联网公司工作的工程师，希望建立完整的 未知 +  知识体系
-- 独立开发者或小团队成员，需要一个人完成从前端到部署的全流程
-- 从其它框架迁移过来的转型工程师
+> 配套案例仓库为独立可跑工程，已冻结 tag，含完整测试与 CI，clone 即跑。
 
 ## 代码清单说明
 
-本目录包含从书籍章节中提取的 **404** 个代码片段文件,涵盖 未知 +  全栈开发核心知识点。
+本书所有代码清单均收录于本目录，对应书稿中「代码清单 N-M」标题块。
 
-### 📊 代码统计
-
-- **总块数**: 404 个
-- **涉及章节**: 第 1-41 章（卷一至卷四）
-
-### 📋 按编程语言分类
-
-| 语言 | 块数 | 说明 |
-|------|------|------|
-| tsx | 244 |  |
-| bash | 56 | 命令/脚本 |
-| text | 38 | 输出/目录树/示意 |
-| typescript | 36 | 类型定义 |
-| ts | 12 | 类型定义 |
-| css | 6 | 样式 |
-| json | 4 | 配置 |
-| js | 2 |  |
-| html | 2 | HTML |
-| md | 2 |  |
-| javascript | 1 | JS 示例 |
-| markdown | 1 |  |
-
-### 📂 章节覆盖
-
-- **第 1-9 章**: 基础篇——核心语法、心智模型、组件化起点
-- **第 10-18 章**: 进阶篇——高级 API、TypeScript 深入、组件通信
-- **第 19-28 章**: 综合能力篇——路由、状态、测试、生态工具链
-- **第 29-42 章**: 项目实战篇——企业级案例
-
-### 🗂️ 配套案例仓库
-
-本书配套案例均为**独立可运行**的完整项目，代码即书正文对应的真实实现（已 tag、全量测试真绿，clone 即跑）：
-
-| 案例 | 技术栈 | 仓库地址 |
-|------|--------|---------|
-| lab-management-system-nextjs | next 15.x (App Router) / react 19.x / typescript 5.6.x strict / drizzle-orm 0.36.x (postgres-js / PostgreSQL) / orval 契约先行生成 API 客户端 / zustand 5.x / tailwindcss 4.x / vitest 2.x / node 20 LTS | [lab-management-system-nextjs](https://github.com/zcqiand/lab-management-system-nextjs) @ v0.3.86-20260926 |
-| saas-identity-platform-nextjs | next 15.x (App Router) / react 19.x / typescript 5.6.x strict / drizzle-orm 0.36.x (pg-core / PostgreSQL) / zustand 5.x / tailwindcss 4.x / vitest 2.x / node 20 LTS | [saas-identity-platform-nextjs](https://github.com/zcqiand/saas-identity-platform-nextjs) @ v0.7.69-20260926 |
-
-本目录（nextjs-book）是**章节代码摘录的索引**；上面的案例仓才是**完整可跑工程**。读者想看真实实现请去案例仓。
-
-## 如何使用代码
-
-每个代码文件都是从对应章节提取的代码片段，文件名格式为 `代码清单{章号}-{序号}_{描述}.{扩展名}`。
-
-## 重新生成 src/
+### 运行环境
 
 ```bash
-python .claude/scripts/extract_code.py output/xr-know-004
+# 本书代码清单以 TSX/TypeScript 为主，多为 Next.js 项目内的页面与组件文件，需 Node.js 20 LTS 与 npm
+# 在案例仓（或 create-next-app 新建的项目）目录安装依赖
+npm install
+# 将清单放入对应路由或组件后，启动开发服务器编译运行
+npm run dev
 ```
 
-## 配套资源
+### 目录结构
 
-- **读者交流**: 1282301776@qq.com
-
-## ⚠️ 注意事项
-
-1. **代码版本**: 基于 未知 未知，API 可能随版本更新
-2. **依赖安装**: 完整项目运行请参考各案例仓库的 README
-3. **安全审查**: 生产环境使用前请审查代码，特别是认证和权限部分
-
----
-
-**最后更新**: 2026年09月27日
-**书籍版本**: 未知 + 
-**代码来源**: [../../output/xr-know-004/chapters](../../output/xr-know-004/chapters)
+```
+src/
+├── 代码清单1-* … 代码清单41-*   # 第 1-41 章，共 404 个清单文件（命名「代码清单N-M_ 描述.扩展名」）
+└── extracted_code_manifest.json   # 全部清单索引（title/lang/chapter_file/line/extracted_file/source）
+```
